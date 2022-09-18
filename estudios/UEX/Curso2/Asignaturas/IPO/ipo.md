@@ -42,5 +42,5 @@ Url Campus: [IPO](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id
   - Las variables pueden ser globales, públicas o privadas.
   - Las variables privadas son creadas automáticamente como privadas.
   - Podemos crear una interfaz gráfica con controles, cuadros de texto, botones, etc. Y finalmente escribiremos el código para dar vida a la app.
-  - El formulario es el punto central de cualquiier app.
+  - El formulario es el punto central de cualquier app.
   - 
