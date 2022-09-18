@@ -121,16 +121,17 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
       <img style="margin-left: 100px" src="Doc_Img/img_19.png" alt="img19">
     
   - Matriz de incidencia: Se representan las aristas. -1 del vértice que sale y 1 al vértice que llega.
+  
     - Grafo:
     
       <img style="margin-left: 100px" src="Doc_Img/img_14.png" alt="img14">
       
       <img style="margin-left: 100px" src="Doc_Img/img_12.png" width="250px" alt="img12">
   
-    - UDigrafo:
+    - Digrafo:
     
       <img style="margin-left: 100px" src="Doc_Img/img_13.png" width="250px" alt="img13">
-      
+  
       <img style="margin-left: 100px" src="Doc_Img/img_21.png" width="250px" alt="img21">
   
 <span style="color: green">DUDA: En una matriz de incidencia se supone que las columnas son las aristas y las filas los vértices, entonces no entiendo, por qué en el ejemplo del tema 1 aparece al revés.</span>
