@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afe4885-4e15-4d12-a8b4-fb935e86ecfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Doc_Img/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Doc_Img/img_8.png" afterDir="false" />
+    <list default="true" id="6afe4885-4e15-4d12-a8b4-fb935e86ecfa" name="Changes" comment="New commit2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Doc_Img/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/ama.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/ama.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/ipo.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/ipo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/transparenciasIPO.html" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/transparenciasIPO.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/JLOel/OneDrive/Escritorio/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/MDAI",
+    "last_opened_file_path": "C:/Users/JLOel/OneDrive/Escritorio/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/IPO/Doc_Img",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "proofread",
     "vue.rearranger.settings.migration": "true"
@@ -52,11 +49,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Doc_Img" />
       <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI" />
       <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Asignaturas\MDAI" />
       <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Asignaturas\DPW(OPT2)" />
       <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Asignaturas\EC" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Asignaturas\IPO" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\AMA\Doc_Img" />
@@ -119,8 +116,16 @@
       <workItem from="1663251596084" duration="4573000" />
       <workItem from="1663315626744" duration="306000" />
       <workItem from="1663446354337" duration="2625000" />
-      <workItem from="1663495569390" duration="7804000" />
+      <workItem from="1663495569390" duration="9221000" />
     </task>
+    <task id="LOCAL-00001" summary="New commit2">
+      <created>1663510362679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663510362700</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,5 +141,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit2" />
   </component>
 </project>
