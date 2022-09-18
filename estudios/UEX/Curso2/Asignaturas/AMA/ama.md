@@ -33,7 +33,7 @@ Pareja: NO
 Año de creación: 1735
 
 Creador: Leonard Euler
-- El problema de los puentes de Königsberg:
+- El problema de los puentes de Konigsberg:
 También llamado el problema de los 7 puentes de Königsberg, es un problema matemático que consistía en encontrar un recorrido para cruzar a pie toda la ciudad pasando solo una vez por cada uno de los puentes y regresando al mismo punto de inicio.
 
 ![img.png](Doc_Img/img_7.png)
@@ -115,18 +115,22 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
       - La suma de los elementos de la diagonal principal de A<sup>2</sup> equivale a la suma de los grados de todos los vértices de G.
 
       <img style="margin-left: 100px" src="Doc_Img/img_17.png" alt="img17">
+      
       <img style="margin-left: 100px" src="Doc_Img/img_18.png" alt="img18">
+      
       <img style="margin-left: 100px" src="Doc_Img/img_19.png" alt="img19">
     
   - Matriz de incidencia: Se representan las aristas. -1 del vértice que sale y 1 al vértice que llega.
     - Grafo:
     
       <img style="margin-left: 100px" src="Doc_Img/img_14.png" alt="img14">
+      
       <img style="margin-left: 100px" src="Doc_Img/img_12.png" width="250px" alt="img12">
   
-    - Digrafo:
+    - UDigrafo:
     
       <img style="margin-left: 100px" src="Doc_Img/img_13.png" width="250px" alt="img13">
+      
       <img style="margin-left: 100px" src="Doc_Img/img_21.png" width="250px" alt="img21">
   
 <span style="color: green">DUDA: En una matriz de incidencia se supone que las columnas son las aristas y las filas los vértices, entonces no entiendo, por qué en el ejemplo del tema 1 aparece al revés.</span>
