@@ -2,67 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afe4885-4e15-4d12-a8b4-fb935e86ecfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/markDown.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/becasAyudas/becaBiblioteca/Docu/Convocatoria Becas Colaboracion 2022-2023.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/becasAyudas/becaBiblioteca/Docu/Horarios becarios 2022-23.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/becasAyudas/becaBiblioteca/Docu/LISTADO DEFINITIVO CORREGIDO.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/becasAyudas/becaBiblioteca/Docu/acta definitiva web sin firmas.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/becasAyudas/becaBiblioteca/info.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/becasAyudas/becaMEC/libroFamiliar2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/Tema1GrafosAlum.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/apunte1_13092022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/apunte2_13092022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/apunte3_13092022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/apunte4_13092022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/apunte5_13092022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/bibliografiaAMA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/grafo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/grafo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/Doc_Img/transparenciaAMA.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/ama.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/AMA/transparenciasAMA.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/DPW(OPT2)/dpw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/DPW(OPT2)/transparenciasDPW.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/EC/Doc_Img/Tema1_Introduccion.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/EC/Doc_Img/bibliografiaEC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/EC/Doc_Img/transparenciaEC.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/EC/ec.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/EC/transparenciasEC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Doc_Img/bibliografiaFR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Doc_Img/modulo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Doc_Img/modulo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Doc_Img/transparenciaFR.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Ejercicios/AP01.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Temas/Tema1/CRS1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Temas/Tema1/CRS1_1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Temas/Tema1/PDF1-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/fr.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/transparenciasFR.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/IPO/Doc_Img/bibliografiaIPO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/IPO/Doc_Img/transparenciaIPO.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/IPO/ipo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/IPO/transparenciasIPO.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/MDAI/Doc_Img/bibliografia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/MDAI/Doc_Img/transparenciaMDAI.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/MDAI/Doc_Img/tutoria.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/MDAI/MDAI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/MDAI/transparenciasMDAI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/MDP/Doc_Img/bibliografiaMDP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/MDP/Doc_Img/transparenciaMDP.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/MDP/mdp.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/MDP/transparenciasMDP.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Horarios_Informatica.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Planificaciones/resumenAsignaturasCurso2.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Planificaciones/resumenAsignaturasCurso2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tramites/Planes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Ejercicios/AP01.docx" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Ejercicios/AP01.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +40,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JLOel/OneDrive/Escritorio/markDown/becasAyudas/becaBiblioteca/Docu&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JLOel/OneDrive/Escritorio/tramitesPlanificaciones&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -173,6 +114,8 @@
       <workItem from="1663249499244" duration="1726000" />
       <workItem from="1663251596084" duration="4573000" />
       <workItem from="1663315626744" duration="306000" />
+      <workItem from="1663446354337" duration="2625000" />
+      <workItem from="1663495569390" duration="470000" />
     </task>
     <servers />
   </component>

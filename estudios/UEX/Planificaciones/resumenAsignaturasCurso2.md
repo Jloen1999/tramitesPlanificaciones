@@ -7,13 +7,13 @@
 ## Primer semestre
 
 
-| ASIGNATURAS                                                   |
-| ------------------------------------------------------------- |
-| Ampliación de Matemáticas(AMA)                              |
-| Estructura de Computadores(EC)                                |
+| ASIGNATURAS                                                  |
+|--------------------------------------------------------------|
+| Ampliación de Matemáticas(AMA)                               |
+| Estructura de Computadores(EC)                               |
 | Interacción Persona-Ordenador(IPO)                           |
 | Metodología y Desarrollo de Programas(MDP)                   |
-| Diseño y Programación Web(OPT-2)                            |
+| Diseño y Programación Web(OPT-2)                             |
 | Metodología y Desarrollo de aplicaciones para Internet(MDAI) |
 
 **ENLACES:**
@@ -48,18 +48,18 @@
 
 ***Curso2***
 
-<img src="../../../images/calendario.png" width="500">
+<img src="../../../images/calendario.png" width="630" alt="calendario">
 
 ***Curso4***
 
-<img src="../../../images/calendario2.png" width="500">
+<img src="../../../images/calendario2.png" width="634" alt="calendario2">
 
 
-| ASIGNATURAS                                                                  |
-| ---------------------------------------------------------------------------- |
+| ASIGNATURAS                                                                |
+|----------------------------------------------------------------------------|
 | Análisis y diseño de Algoritmos(ADA)                                       |
-| Arquitectura y Organización de Computadores(AOC)                            |
-| Redes de Ordenadores(RO)                                                     |
+| Arquitectura y Organización de Computadores(AOC)                           |
+| Redes de Ordenadores(RO)                                                   |
 | Aspectos sociales, legales, éticos y profesionales de la informática(ASLE) |
 
 **ENLACES:**
@@ -87,7 +87,7 @@ Horas:
   
 ````
 
-<img src="../../../images/calendario1.png" width="500">
+<img src="../../../images/calendario1.png" width="676" alt="calendario1">
 
 ***MATRICULA***
 
