@@ -96,6 +96,47 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
     
       <img style="margin-left: 100px" src="Doc_Img/img_8.png" width="300px" alt="img8">
 
+  - Listas:
   
+      <img style="margin-left: 100px" src="Doc_Img/img_9.png" alt="img9">
+  
+    - Lista de incidencia: Se enumeran las aristas.
 
-  - 
+      <img style="margin-left: 100px" src="Doc_Img/img_10.png" width="300px" alt="img10">
+
+    - Lista de adyacencia: Se enumeran los vértices adyacentes.
+
+      <img style="margin-left: 100px" src="Doc_Img/img_11.png" width="300px" alt="img11">
+  
+  - Matriz: los grafos se pueden representar mediante una matriz.
+    - Propiedades:
+    
+      - Una matriz nos permite saber el total de caminos diferentes en un grafo, multigrafo o digrafo G, de longitud r, desde el vértice v<sub>i</sub> al v<sub>j</sub>, es igual al elemento a<sub>ij </sub>∈ A<sup>r</sup>
+      - La suma de los elementos de la diagonal principal de A<sup>2</sup> equivale a la suma de los grados de todos los vértices de G.
+
+      <img style="margin-left: 100px" src="Doc_Img/img_17.png" alt="img17">
+      <img style="margin-left: 100px" src="Doc_Img/img_18.png" alt="img18">
+      <img style="margin-left: 100px" src="Doc_Img/img_19.png" alt="img19">
+    
+  - Matriz de incidencia: Se representan las aristas. -1 del vértice que sale y 1 al vértice que llega.
+    - Grafo:
+    
+      <img style="margin-left: 100px" src="Doc_Img/img_14.png" alt="img14">
+      <img style="margin-left: 100px" src="Doc_Img/img_12.png" width="250px" alt="img12">
+  
+    - Digrafo:
+    
+      <img style="margin-left: 100px" src="Doc_Img/img_13.png" width="250px" alt="img13">
+      <img style="margin-left: 100px" src="Doc_Img/img_21.png" width="250px" alt="img21">
+  
+<span style="color: green">DUDA: En una matriz de incidencia se supone que las columnas son las aristas y las filas los vértices, entonces no entiendo, por qué en el ejemplo del tema 1 aparece al revés.</span>
+
+- Matriz de adyacencia: En la posición (i, j) hay un 1 si las aristas i, j son adyacentes.
+
+ <span style="color: blue">NOTA:Si el grafo no es dirigido la matriz va a ser simétrica.</span>
+
+<img style="margin-left: 100px" src="Doc_Img/img_15.png" alt="img15">
+
+<img style="margin-left: 100px" src="Doc_Img/img_16.png" alt="img16">
+
+ 
