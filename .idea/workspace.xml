@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6afe4885-4e15-4d12-a8b4-fb935e86ecfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Doc_Img/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Doc_Img/img_8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Ejercicios/AP01.docx" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Asignaturas/FR/Ejercicios/AP01.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Doc_Img/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/ama.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/ama.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,32 +38,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JLOel/OneDrive/Escritorio/tramitesPlanificaciones&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/JLOel/OneDrive/Escritorio/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/MDAI",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "proofread",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\markDown\becasAyudas\becaBiblioteca\Docu" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\markDown\estudios\UEX\Asignaturas\FR\Temas\Tema1" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\markDown\estudios\UEX\Asignaturas\MDP\Doc_Img" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\markDown\estudios\UEX\Asignaturas\MDAI\Doc_Img" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\markDown\estudios\UEX\Asignaturas\OPT2" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Asignaturas\MDAI" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Asignaturas\DPW(OPT2)" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Asignaturas\EC" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Asignaturas\IPO" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\AMA\Doc_Img" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Asignaturas\DPW(OPT2)" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Asignaturas\FR" />
       <recent name="C:\Users\JLOel\OneDrive\Escritorio\markDown\estudios\UEX\Asignaturas\FR" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\markDown\estudios\UEX\Asignaturas\FR\Temas\Tema1" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\markDown\images" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\markDown\estudios\UEX\Asignaturas\EC" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\markDown\estudios\UEX\Asignaturas\AMA\Docu_Img" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -115,7 +119,7 @@
       <workItem from="1663251596084" duration="4573000" />
       <workItem from="1663315626744" duration="306000" />
       <workItem from="1663446354337" duration="2625000" />
-      <workItem from="1663495569390" duration="470000" />
+      <workItem from="1663495569390" duration="7804000" />
     </task>
     <servers />
   </component>
