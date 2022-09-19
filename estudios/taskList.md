@@ -1,8 +1,8 @@
 # Lista de tareas:
 ## Uni:
-- [ ] AMA: 9-10
+- [X] AMA: 9-10
 
-- [ ] P.MDAI-B(Lab. IV): 10-12
+- [X] P.MDAI-B(Lab. IV): 10-12 (No hay clase)
 
 - [ ] P.AMA-A(Lab1): 12-13
 
