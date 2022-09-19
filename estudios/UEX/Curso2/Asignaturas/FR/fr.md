@@ -88,6 +88,7 @@ La comunicación es algo intrínseco al ser humano porque el ser humano siempre 
   - Duplicación de equipos y recursos.
   - Incapacidad de comunicarse con cualquier persona, en cualquier momento y lugar.
   - Falta de una administración de LAN.
+  
     <img src="Doc_Img/redDatos.png">
 
 - Tipos de redes:
