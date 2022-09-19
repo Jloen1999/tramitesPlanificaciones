@@ -135,7 +135,9 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
   
       <img style="margin-left: 100px" src="Doc_Img/img_21.png" width="250px" alt="img21">
   
-<span style="color: green">DUDA: En una matriz de incidencia se supone que las columnas son las aristas y las filas los vértices, entonces no entiendo, por qué en el ejemplo del tema 1 aparece al revés.</span>
+<span style="color: red">DUDA: En una matriz de incidencia se supone que las columnas son las aristas y las filas los vértices, entonces no entiendo, por qué en el ejemplo del tema 1 aparece al revés.</span>
+
+<span style="color: green">DUDA RESUELTA: En una matriz de incidencia las columnas pueden representar las aristas o vértices, depende de lo que queramos hacer con la matriz.</span>
 
 - Matriz de adyacencia: En la posición (i, j) hay un 1 si las aristas i, j son adyacentes.
 
@@ -144,5 +146,46 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
 <img style="margin-left: 100px" src="Doc_Img/img_15.png" alt="img15">
 
 <img style="margin-left: 100px" src="Doc_Img/img_16.png" alt="img16">
+
+<img style="margin-left: 100px" src="Doc_Img/isomorfiaPermutacion.png" alt="isomorfía Permutaciones">
+ 
+- Grado de un vértice: Es el número de aristas que lo tienen como extremo.
+  - Ejemplo:
+  
+  <img style="margin-left: 100px" src="Doc_Img/grado.png" alt="grado">
+
+  En el grado de la figura: gr(a) = 3, gr(b) = 3, gr(c) = 3, gr(d) = 4
+
+  - Secuencia de grados de un grafo: es la lista (decreciente) de los grados del grafo.
+    (4,3,3,3,3)
+    - Si dos grafos son isomorfos, entonces tienen la misma secuencia de grados, pero dos grafos pueden tener la misma secuencia de grados y no ser isomorfos.
+
+      <img style="margin-left: 100px" src="Doc_Img/NOisomorfos.png" alt="No isomorfos">
+      
+    - Propiedades: 
+      - La suma de los grados es igual al doble del número de aristas.
+      - En particular, la suma de los grados es un número par.
+      - Algoritmo de Havel-Hakimi: Para determinar si una secuencia de números naturales n<sub>1</sub> >= n<sub>2</sub> ... >= n<sub>k</sub> >= 0 es la secuencia de grados de un grafo, debemos usar el siguiente algoritmo:
+        - Si todos los elementos son cero, terminamos con respuesta afirmativa. En caso contrario:
+          - Eliminamos n<sub>1</sub> de la secuencia y restamos 1 a (los primeros) n<sub>1</sub> elementos.
+          - Si algún entero toma valor negativo, terminamos con respuesta negativa.
+          - Reordenamos la secuencia de mayor a menor.
+          - Volvemos al primer paso.
+          
+            <img style="margin-left: 100px" src="Doc_Img/algoritmoHakimi.png" alt="Algoritmo Havel-Hakimi">
+
+- Grafo Completo: es un grafo tal que todos los pares de vértices están conectados.
+
+  Denotamos K<sub>n</sub> al grafo completo de n vértices.
+
+<img style="margin-left: 100px" src="Doc_Img/grafoCompleto.png" alt="Grafo Completo">
+
+- Grafo k-regular: Es todo grafo tal que todos sus vértices tienen grado k.
+  
+  Todo grafo completo K<sub>n</sub> es n-1 regular, es decir, todo grafo completo es regular pero no todo grafo regular es completo.
+
+<img style="margin-left: 100px" src="Doc_Img/grafoRegular.png" alt="Grafo Regular">
+
+  
 
  
