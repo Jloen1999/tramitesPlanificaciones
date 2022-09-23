@@ -1,15 +1,12 @@
 # Lista de tareas:
 ## Uni:
-- [X] AMA: 9-10
+- [ ] IPO: 9-10
+- [ ] MDP: 11-12
+- [ ] IPO-A: 12-14
 
-- [X] P.MDAI-B(Lab. IV): 10-12 (No hay clase)
-
-- [ ] P.AMA-A(Lab1): 12-13
-
-- [ ] Peluquería: 13:30
-
-- [ ] Descanso en casa: 14
-
-- [ ] OPT-2(DPW): 15-16:20
-
-- [ ] Me voy en Bus al Albarregas
+### Repaso: Técnica Pomodoro
+- [ ] MDP: 16:00-18:00
+- [ ] FR: 18:20-19:00
+- [ ] DPW: 19:20-20:30
+- Libro, Pelis y series...
+ 
