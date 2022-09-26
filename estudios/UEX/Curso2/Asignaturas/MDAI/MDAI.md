@@ -15,3 +15,4 @@ Url Campus: [MDAI](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?i
 # APUNTES
 ## Tema 1:  
 <p style="color: green">Publicado el /09/2022</p>
+

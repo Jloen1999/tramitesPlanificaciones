@@ -46,6 +46,8 @@ También llamado el problema de los 7 puentes de Königsberg, es un problema mat
     - Bases de Datos
     - etc...
 
+<img src="Doc_Img/imagen2.png" alt="imagen2" width="530px" height="300" style="margin-left: 50px">
+
 Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminales y las aristas las conexiones inalámbricas o cables).
 
 - Un grafo (V,E) está formado por
