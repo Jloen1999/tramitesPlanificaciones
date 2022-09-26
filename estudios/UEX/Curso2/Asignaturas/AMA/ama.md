@@ -186,6 +186,10 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
 
 <img style="margin-left: 100px" src="Doc_Img/grafoRegular.png" alt="Grafo Regular">
 
-  
+<img style="margin-left: 100px" src="Doc_Img/ejemploRepaso1.jpeg" alt="ejemplo Repaso 1">
+
+<img style="margin-left: 100px" src="Doc_Img/ejemploRepaso2.jpeg" alt="ejemplo Repaso 2">
+
+
 
  
