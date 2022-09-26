@@ -35,7 +35,7 @@ Año de creación: 1735
 
 Creador: Leonard Euler
 - El problema de los puentes de Konigsberg:
-También llamado el problema de los 7 puentes de Königsberg, es un problema matemático que consistía en encontrar un recorrido para cruzar a pie toda la ciudad pasando solo una vez por cada uno de los puentes y regresando al mismo punto de inicio.
+También llamado el problema de los 7 puentes de Königsberg, es un problema matemático que consistía en encontrar un recorrido para cruzar a pie toda la ciudad pasando solo una vez por cada uno de los puentes y regresando al mismo punto de inicio. Dicho problema se resuelve a través de los grafos eulerianos.
 
 ![img.png](Doc_Img/img_7.png)
 
@@ -140,6 +140,7 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
 <span style="color: green">DUDA RESUELTA: En una matriz de incidencia las columnas pueden representar las aristas o vértices, depende de lo que queramos hacer con la matriz.</span>
 
 - Matriz de adyacencia: En la posición (i, j) hay un 1 si las aristas i, j son adyacentes.
+  - Nos permite saber
 
  <span style="color: blue">NOTA:Si el grafo no es dirigido la matriz va a ser simétrica.</span>
 
@@ -178,7 +179,7 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
 
   Denotamos K<sub>n</sub> al grafo completo de n vértices.
 
-<img style="margin-left: 100px" src="Doc_Img/grafoCompleto.png" alt="Grafo Completo">
+  <img style="margin-left: 100px" src="Doc_Img/grafoCompleto.png" alt="Grafo Completo">
 
 - Grafo k-regular: Es todo grafo tal que todos sus vértices tienen grado k.
   
@@ -190,6 +191,13 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
 
 <img style="margin-left: 100px" src="Doc_Img/ejemploRepaso2.jpeg" alt="ejemplo Repaso 2">
 
+- Caminos en un grafo:
+  - Camino: Sucesión finita de vertices de modo que cada dos consecutivos son adyacentes.
+  - Longitud: Es el número de aristas dentro de un camino.
+  -  
+  - 
 
+- Grafo euleriano: Es aquel en el que existe un circuito que recorre todas las aristas.  
+- Toda secuencia de grados de un grafo que tiene grados pares es euleriano.
+- Todo grafo euleriano tiene secuencia de grados pares
 
- 
