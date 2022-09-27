@@ -27,22 +27,17 @@
 
 
 ***LUNES:***
-
 - [ ]  Clase Teórica de OPT-2(DPW): 15-16:25
-- [ ]  Clase Práctica de MDAI-B(Lab. IV): 10-12
 - [ ]  Clase Práctica de AMA-A(Lab I): 12-13
 
 ***MARTES***
-
-- [ ]  Clase Teórica de MDAI: 17-19
 - [ ]  Clase Práctica de MDP-A(): 12-14
+- [ ]  Clase Teórica de MDAI: 17-19
 
 ***MIÉRCOLES***
-
 - [ ]  Clase Práctica de OPT-2(DPW): 15-16:25
 
 ***JUEVES***
-
 - [ ]  Clase Práctica de FR-A: 10-12
 - [ ]  Clase Práctica de EC-A: 12-14
 

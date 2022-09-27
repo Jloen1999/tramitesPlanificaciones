@@ -1,7 +1,8 @@
 # Lista de tareas:
 ## Uni:
-- [ ] AMA: 9-10
-- [ ] P_MDAI-B(LAB IV): 10-12
-- [ ] AMA-A(Lab I): 12-13
-- [ ] OPT-2(DPW): 15-16:25
+- [ ] EC: 9-11
+- [ ] AMA: 11-12
+- [ ] MDP-A: 12-16
+- [ ] EC: 14-15
+- [ ] MDAI: 17-19
  

@@ -23,7 +23,6 @@ Url Campus: [EC](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=
 <div>
             <pre>
                 <span style="color: red">DUDAS:</span>
-                        RISC & CISC
                         Diferencia entre monociclo y multiciclo.
                         Formato de instruccciones
                         Diferencia entre arquitectura y estructura
@@ -56,6 +55,20 @@ Url Campus: [EC](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=
                     <li>Se dice que la arquitectura de Von Neumman utiliza una unica memoria para datos e instrucciones, en cambio la de Harvard</li>
                 </ul>
             </pre>
+
+<div id="respuestas">
+    <table><th>Diferencias entre procesadores CISC y RISC.</th>
+    <tr><td>Siglas: Complex Instruction Set Computer</td><td>es un sistema de instrucciones desarrollado por Intel que requieren de mucho tiempo para ser ejecutadas completamente.</td><td>CISC</td><td>Tiene una sencilla decodificación de las instrucciones</td><td>reduce la cantidad de instrucciones de un software y se ignora el número de ciclos por instrucción. Se especializa en crear instrucciones complejas en el hardware, ya que el hardware siempre será mucho más rápido que el software.</td><td>Los usos de la canalización son simples</td></tr>
+</table>
+</div>
+<ul>
+    <li>El entorno exterior cambia a un ritmo mayor que el interior, es decir, El aumento en cuanto a la demanda de las aplicaciones es mayor que la mejora de los microprocesadores.</li>
+    <li>Cuanto más complejo es el lenguaje de programación mayor es el número de instrucciones.</li>
+    <li>La programación en ensamblador es más eficiente</li>
+    <li>La tecnología ha hecho que los microprocesadores se compliquen</li>
+    <li>La aparicion de los multiprocesadores se debe a la necesidad de aumentar el número de transistores, la eficiencia y la capacidad de la memoria.</li>
+</ul>
+
 </div>
 
 
