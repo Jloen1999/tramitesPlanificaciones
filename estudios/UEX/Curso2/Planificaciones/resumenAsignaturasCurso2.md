@@ -23,7 +23,7 @@
 [AMA](https://www.unex.es/conoce-la-uex/centros/cum/titulaciones/info/asignatura?id=1514&id_asig=501432)
 [MDP](https://www.unex.es/conoce-la-uex/centros/cum/titulaciones/info/asignatura?id=1590&id_asig=501309)
 [OPT-2](https://www.unex.es/conoce-la-uex/centros/cum/titulaciones/info/asignatura?&id=1514&id_asig=501460)
-[MDAI](https://www.unex.es/conoce-la-uex/centros/cum/titulaciones/info/asignatura?id=1514&id_asig=502371)
+[MDAI](https://www.ºunex.es/conoce-la-uex/centros/cum/titulaciones/info/asignatura?id=1514&id_asig=502371)
 
 
 ***LUNES:***
