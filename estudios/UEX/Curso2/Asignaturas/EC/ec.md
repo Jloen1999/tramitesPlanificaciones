@@ -16,7 +16,7 @@ Grupo: A(Jueves) 12-14h
 Url Campus: [EC](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=12187)
 
 # APUNTES
-## Tema 0: Estructura de Computadores en el Plan de estudios del Grado en IITI
+## Tema 1: Estructura de Computadores en el Plan de estudios del Grado en IITI
 
 
 <p style="color: green">Publicado el 13/09/2022</p>
@@ -66,9 +66,76 @@ Url Campus: [EC](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=
     <li>Cuanto más complejo es el lenguaje de programación mayor es el número de instrucciones.</li>
     <li>La programación en ensamblador es más eficiente</li>
     <li>La tecnología ha hecho que los microprocesadores se compliquen</li>
-    <li>La aparicion de los multiprocesadores se debe a la necesidad de aumentar el número de transistores, la eficiencia y la capacidad de la memoria.</li>
+    <li>La aparición de los multiprocesadores se debe a la necesidad de aumentar el número de transistores, la eficiencia y la capacidad de la memoria.</li>
 </ul>
 
 </div>
 
+# Tema 2: Arquitectura del repertorio de instrucciones
+- Dudas: 
+  - ciclo TIC y TOC
+  - Arquitectura tipo pila y acumulador
 
+- Modo de direccionamiento: Las diferentes formas que tiene la arquitectura en la forma de operar las instrucciones. 
+- El registro a registro es más rápido porque accedes directamente a las operaciones. 
+- En cualquier arquitectura la operación más rápida es de memoria
+- Ejercicio: 
+  - problema 11: A = ((B + C) * D)/(E - F * G - H * I)
+- Pila: 
+
+| Instrucciones PILA |
+|--------------------|
+| PUSH B             |
+| PUSH D             |
+| ADD                |
+| PUSH D             |
+| MUL                |
+| POP E              |
+| PUSH F             |
+| PUSH G             |
+| MUL                |
+| SUB                |
+| PUSH H             |
+| PUSH I             |
+| MUL                |
+| SUB                |
+| DIV                |
+| POP A              |
+    
+| ACUMULADOR |
+|------------|
+| LOAD B     |
+| ADD C      |
+| MUL D      |
+| STORE AUX1 |
+| LOAD F     |
+| MUL G      |
+| STORE AUX2 |
+| LOAD H     |
+| MUL I      |
+| STORE AUX3 |
+| LOAD E     |
+| SUB AUX2   |
+| SUB AUX3   |
+| STORE AUX4 |
+| LOAD AUX1  |
+| DIV AUX4   |
+| STORE A    |
+
+
+| REGISTRO A REGISTRO |
+|---------------------|
+| LOAD R1, B          |
+| LOAD                |
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
