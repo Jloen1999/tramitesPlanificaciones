@@ -1,8 +1,7 @@
 # Lista de tareas:
 ## Uni:
 - [X] EC: 9-11
-- [ ] AMA: 11-12
-- [ ] MDP-A: 12-14
-- [ ] EC: 14-15
+- [X] AMA: 11-12
+- [X] MDP-A: 12-14
 - [ ] MDAI: 17-19
  

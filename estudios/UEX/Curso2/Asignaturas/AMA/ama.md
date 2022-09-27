@@ -203,3 +203,6 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
 - Toda secuencia de grados de un grafo que tiene grados pares es euleriano.
 - Todo grafo euleriano tiene secuencia de grados pares
 
+- Grafo Hamiltoniano: existe un ciclo.
+  - Ciclo: Camino cerrado que recorra todos los vértices sin que se repita ningún vértice salvo el extremo.
+
