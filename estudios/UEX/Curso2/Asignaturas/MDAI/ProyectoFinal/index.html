@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="CSS/styles.css">
+    <title>YtConsultant</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.halo.min.js"></script>
+
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            VANTA.HALO({
+                el: "#vanta",
+                mouseControls: true,
+                touchControls: true,
+                gyroControls: true,
+                minHeight: 200.00,
+                minWidth: 200.00,
+                scale: 1.00,
+                scaleMobile: 1.00,
+                backgroundAlpha: 0.0,
+                color2: 0x00000,
+                wingSpan: 40.00,
+                separation: 100.00,
+                alignment: 77.00,
+                cohesion: 5.00,
+                quantity: 1.00
+            })
+
+            setTimeout(() => {
+                const main = document.querySelector('main')
+                main.style.opacity = 1
+                main.style.filter = 'blur(0px)'
+            }, 1000)
+        })
+    </script>
+
+</head>
+<body>
+    <main id="vanta">
+    <div class="login-box">
+        <img class="center" src="Images/logoYoutube.jpg" alt="logoYoutube">
+        <div class="container">
+        <h2>Login</h2>
+        <form action="">
+            <div class="user-box">
+                    <input type="text" name="username" required="">
+                <label>Username</label>
+            </div>
+            <div class="user-box">
+                    <input type="text" name="password" required="">
+                <label>Password</label>
+            </div>
+            <div class="button-form">
+                <a id="submit" href="#">Submit</a>
+                <div id="register">
+                    ¿No tienes una cuenta?
+                    <a href="#">Register</a>
+                </div>
+            </div>
+        </form>
+    </div>
+    </div>
+    </main>
+</body>
+</html>
