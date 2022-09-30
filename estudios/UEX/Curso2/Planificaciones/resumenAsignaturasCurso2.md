@@ -40,6 +40,7 @@
 ***JUEVES***
 - [ ]  Clase Práctica de FR-A: 10-12
 - [ ]  Clase Práctica de EC-A: 12-14
+- [ ]  Clase Práctica de MDAI-A: 17-19 
 
 ***Curso2***
 
