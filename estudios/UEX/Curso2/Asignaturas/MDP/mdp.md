@@ -13,7 +13,8 @@ Url Campus: [MDP](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id
 - Fecha pruebas: 
 - [ ] Entrega sesion 3: 4 y 5 octubre
 - [ ] Evaluacion tipo TEST(OO, Comp, Herencia, Colecciones): 7 octubre
-- [ ] Evaluacion tipo TEST(T1 y T2): 14 octubre 
+- [ ] Evaluacion tipo TEST(T1 y T2): 14 octubre
+- [ ] Evaluacion tipo TEST(): 21 octubre
 
 
 # APUNTES
