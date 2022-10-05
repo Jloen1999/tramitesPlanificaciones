@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90503ed9-c829-42ce-b5fd-f6c9f6f21a0f" name="Changes" comment="new fil">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_26_2022_6_33_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_26_2022_6_33_AM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/taskList.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/taskList.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renovacionNIE/documentacion/ModeloSolicitud/modeloSolicitud.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/renovacionNIE/documentacion/ModeloSolicitud/modeloSolicitud.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +134,7 @@
       <workItem from="1664530128354" duration="2988000" />
       <workItem from="1664816397913" duration="7745000" />
       <workItem from="1664894226875" duration="4745000" />
-      <workItem from="1664920284784" duration="3691000" />
+      <workItem from="1664920284784" duration="7154000" />
     </task>
     <task id="LOCAL-00001" summary="New commit2">
       <created>1663510362679</created>
