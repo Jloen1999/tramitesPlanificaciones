@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90503ed9-c829-42ce-b5fd-f6c9f6f21a0f" name="Changes" comment="new fil">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_26_2022_6_33_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_26_2022_6_33_AM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renovacionNIE/documentacion/ModeloTasa790_520/justificanteTasaPagada.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/renovacionNIE/documentacion/ModeloTasa790_520/modeloTasaPagada790.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/taskList.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/taskList.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renovacionNIE/documentacion/ModeloSolicitud/modeloSolicitud.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/renovacionNIE/documentacion/ModeloSolicitud/modeloSolicitud.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,34 +38,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/JLOel/OneDrive/Documentos/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/MDAI/ProyectoFinal/Images",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "proofread",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JLOel/OneDrive/Documentos/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/IPO/Temas&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Temas" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\renovacionNIE\documentacion\Contrato" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI\ProyectoFinal\Images" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI\ProyectoFinal" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Doc_Img" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Asignaturas\MDAI" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI\ProyectoFinal\Docu" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI\ProyectoFinal\Images" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI\ProyectoFinal" />
       <recent name="C:\Users\JLOel\WebstormProjects\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\DPW(OPT2)\Actividades" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\AMA\Doc_Img" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -130,7 +133,11 @@
       <workItem from="1663908559139" duration="1101000" />
       <workItem from="1664383386183" duration="24000" />
       <workItem from="1664445700890" duration="1304000" />
-      <workItem from="1664483659128" duration="7046000" />
+      <workItem from="1664483659128" duration="12467000" />
+      <workItem from="1664530128354" duration="2988000" />
+      <workItem from="1664816397913" duration="7745000" />
+      <workItem from="1664894226875" duration="4745000" />
+      <workItem from="1664920284784" duration="3691000" />
     </task>
     <task id="LOCAL-00001" summary="New commit2">
       <created>1663510362679</created>
