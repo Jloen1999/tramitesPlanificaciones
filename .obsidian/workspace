@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "f43679d947b8b585",
+    "type": "split",
+    "children": [
+      {
+        "id": "46de357fd5d5eb06",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "estudios/UEX/Curso2/Asignaturas/AMA/ama.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce943404bdd19a16",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bd40cc227ff0588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eba103f29dae2dba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "139ea9fbf95acba8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:readme",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "552d8143c71523fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2dce60b2d19bd76",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bcfde1c3dbc21df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b6af916aac3726f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/AMA/ama.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d0b5cba98ce89282",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/AMA/ama.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cd6c13b438b8c9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a101908804ccb7f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/AMA/ama.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "46de357fd5d5eb06",
+  "lastOpenFiles": [
+    "estudios/UEX/Curso2/Asignaturas/AMA/Temas/Tema1GrafosAlum.pdf",
+    "estudios/UEX/Curso2/Asignaturas/AMA/ama.md",
+    "estudios/UEX/Curso2/Asignaturas/IPO/ipo.md",
+    "estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md",
+    "review.md",
+    "().md",
+    "Pasted.md",
+    "repaso.md.md",
+    "estudios/taskList.md",
+    "README.md"
+  ]
+}

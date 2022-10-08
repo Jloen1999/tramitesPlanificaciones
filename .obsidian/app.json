@@ -1,0 +1,9 @@
+{
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es"
+  ],
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
+}

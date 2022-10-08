@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90503ed9-c829-42ce-b5fd-f6c9f6f21a0f" name="Changes" comment="new fil">
+      <change beforePath="$PROJECT_DIR$/.idea/markDown.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markDown.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_29_2022_7_53_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_29_2022_7_53_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/ama.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/ama.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/CSS/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Temas/Tema1IPO.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Temas/Tema1IPO.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/ipo.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/ipo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/taskList.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/taskList.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +145,9 @@
       <workItem from="1664530128354" duration="2988000" />
       <workItem from="1664816397913" duration="7745000" />
       <workItem from="1664894226875" duration="4745000" />
-      <workItem from="1664920284784" duration="7154000" />
+      <workItem from="1664920284784" duration="12970000" />
+      <workItem from="1665043024292" duration="5274000" />
+      <workItem from="1665182670609" duration="4770000" />
     </task>
     <task id="LOCAL-00001" summary="New commit2">
       <created>1663510362679</created>

@@ -46,7 +46,7 @@ También llamado el problema de los 7 puentes de Königsberg, es un problema mat
     - Bases de Datos
     - etc...
 
-<img src="Doc_Img/imagen2.png" alt="imagen2" width="530px" height="300" style="margin-left: 50px">
+<img src="Doc_Img/img_2.png" alt="imagen2" width="530px" height="300" style="margin-left: 50px">
 
 Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminales y las aristas las conexiones inalámbricas o cables).
 
@@ -77,7 +77,7 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
 
   <img style="margin-left: 100px" src="Doc_Img/img_5.png" alt="img5">
 
-  - Isomorfos: si tengo dos grafos, renombro los vértices y aristas del primero obtenemos el segundo.
+  - Isomorfos: si tengo dos grafos, renombro los vértices y aristas del primero obtenemos el segundo. También tienen que tener los mismos ciclos y las imágenes tienen que ser las mismas.
 
   <img style="margin-left: 100px" src="Doc_Img/img_6.png" alt="img6">
   
