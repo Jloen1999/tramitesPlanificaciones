@@ -139,3 +139,5 @@ Url Campus: [EC](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=
 ||
 ||
 ||
+
+Variables ortogonales son aquellos que son independientes entre sí.

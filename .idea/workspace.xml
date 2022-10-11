@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="90503ed9-c829-42ce-b5fd-f6c9f6f21a0f" name="Changes" comment="new fil">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/appearance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/ama.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/ama.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/Entregas/P1_JoseLuisObiangEN_Memoria.docx" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/Entregas/P1_JoseLuisObiangEN_Memoria.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/HTML/ejemplo.html" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/HTML/ejemplo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/taskList.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/taskList.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review.md" beforeDir="false" afterPath="$PROJECT_DIR$/review.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/CSS/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +141,8 @@
       <workItem from="1665182670609" duration="4905000" />
       <workItem from="1665252150435" duration="2054000" />
       <workItem from="1665326845172" duration="9036000" />
-      <workItem from="1665432384455" duration="1356000" />
+      <workItem from="1665432384455" duration="2160000" />
+      <workItem from="1665465768066" duration="3582000" />
     </task>
     <task id="LOCAL-00001" summary="New commit2">
       <created>1663510362679</created>
