@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <title>Repaso de html y css</title>
+    <meta name="keywords" content="css, html, javascript">
+    <meta name="description" content="Repaso de html, css y javascript">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="UTF-8">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.birds.min.js"></script>
+    <script type="application/javascript">
+        window.addEventListener("DOMContentLoaded", () => {
+            VANTA.BIRDS({
+                    el: "#vanta",
+                    mouseControls: true,
+                    touchControls: true,
+                    gyroControls: false,
+                    minHeight: 200.00,
+                    minWidth: 200.00,
+                    scale: 1.00,
+                    scaleMobile: 1.00
+            })
+            setTimeout(()=>{
+                var main = document.querySelector("#vanta");
+                main.style.opacity = "1px";
+            }, 1000);
+        })
+    </script>
+    <style>
+        body{
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+<header id="vanta">
+    <h1 style="text-align: center">Repaso</h1>
+</header>
+<nav>
+    <ul style="color:blue">
+        <li><a href="https://instagram.com/jloen.19">Instagram</a></li>
+        <li><a href="https://tweeter.com/jloen199">Tweeter</a></li>
+    </ul>
+</nav>
+<section>
+    <article></article>
+    <article></article>
+    <article></article>
+</section>
+<aside>
+    <article></article>
+    <article></article>
+    <article></article>
+</aside>
+<footer>
+    &copy Derechos de autor
+</footer>
+</body>
+</html>

@@ -127,17 +127,20 @@ Url Campus: [EC](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=
 |---------------------|
 | LOAD R1, B          |
 | LOAD                |
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
 
 Variables ortogonales son aquellos que son independientes entre sí.
+
+Ejercicio 1:
+- 32 bits -->Representa el tamaño de palabra
+- 16 REG(32 bits) -->4bits
+- 256 MPalabras --> 28bits
+- **MOVE ORIGEN DESTINO**
+- **ADD DESTINO OP1 OP2**
+- 7 **MD**
+- **ORTOGONALES**
+
+| COP |OP1| OP2 |
+|-----|----|-----|
+| 1   || |
+
+![img.png](img.png)

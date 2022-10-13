@@ -203,3 +203,13 @@ Ejemplo de un grafo: una red de computadoras(donde los vertices son los terminal
 - Grafo Hamiltoniano: existe un ciclo.
 
   - Ciclo: Camino cerrado que recorra todos los vértices sin que se repita ningún vértice salvo el extremo.
+- Ejemplos:
+
+```mermaid
+graph LR
+A-->B
+B-->C
+C-->D
+D-->E
+E-->F
+```
