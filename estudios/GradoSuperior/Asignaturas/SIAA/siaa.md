@@ -17,9 +17,11 @@ Correo Profe: mpreciadoa02@iesalbarregas.es
 
 <span style="color: green">Los primeros trabajos de inteligencia artificial fueron llevados a cabo por McCulloch y Pitts en 1940 quienes desarrollaron un modelo automático de la neurona.</span>
 
-2. Diferencias entre la Inteligencia Artificial Fuerte y Debil:
+2. Diferencias entre la Inteligencia Artificial Fuerte y Débil:
 
     2.1. Inteligencia Artificial Fuerte: 
    - Definición: Consiste en hacer que las máquinas no solo simulen la forma de actuar y de comportarse del ser humano, sino que realmente piensen. Es aquella Inteligencia que iguala o excede la Inteligencia humana.
    - Características:
      - 
+
+# Tema 2: Maching Learning
