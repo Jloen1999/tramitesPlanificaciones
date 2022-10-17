@@ -10,7 +10,7 @@ Correo: mariomp@unex.es
 
 Grupo: A(Lab I): 12-13
 
-Pareja: NO
+Pareja: Fredy
 
 *Poner en asunto de los correos al profe: AMA I
 

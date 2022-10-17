@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46de357fd5d5eb06",
+        "id": "cb743c336630c0be",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "review.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "review.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,13 +120,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46de357fd5d5eb06",
+  "active": "cb743c336630c0be",
   "lastOpenFiles": [
+    "review.md",
     "estudios/UEX/Curso2/Asignaturas/AMA/ama.md",
     "estudios/UEX/Curso2/Asignaturas/AMA/Temas/Tema1GrafosAlum.pdf",
     "estudios/UEX/Curso2/Asignaturas/IPO/ipo.md",
     "estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md",
-    "review.md",
     "().md",
     "Pasted.md",
     "repaso.md.md",

@@ -4,9 +4,10 @@
     <list default="true" id="90503ed9-c829-42ce-b5fd-f6c9f6f21a0f" name="Changes" comment="new fil">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Temas/Tema1GrafosAlum.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Temas/Tema1/Tema1GrafosAlum.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/ama.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/ama.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/Entregas/~$_JoseLuisObiangEN_Memoria.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/Entregas/P1_JoseLuisObiangEN_Memoria.docx" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/Entregas/P1_JoseLuisObiangEN_Memoria.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/taskList.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/taskList.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/review.md" beforeDir="false" afterPath="$PROJECT_DIR$/review.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,35 +40,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JLOel/OneDrive/Documentos/tramitesPlanificaciones/estudios/GradoSuperior&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Users/JLOel/OneDrive/Documentos/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/AMA/Temas/Tema1",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "copyright",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\AMA\Temas\Tema1" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\GradoSuperior" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Temas" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\renovacionNIE\documentacion\Contrato" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI\ProyectoFinal\Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\AMA\Temas\Tema1" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\GradoSuperior\DocMatricula" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI\ProyectoFinal\Docu" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI\ProyectoFinal\Images" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDAI\ProyectoFinal" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -148,7 +149,10 @@
       <workItem from="1665607094009" duration="2217000" />
       <workItem from="1665616681247" duration="1847000" />
       <workItem from="1665651512652" duration="1443000" />
-      <workItem from="1665655950964" duration="4732000" />
+      <workItem from="1665655950964" duration="6157000" />
+      <workItem from="1665677441015" duration="196000" />
+      <workItem from="1665738072808" duration="1348000" />
+      <workItem from="1665932664262" duration="14778000" />
     </task>
     <task id="LOCAL-00001" summary="New commit2">
       <created>1663510362679</created>
