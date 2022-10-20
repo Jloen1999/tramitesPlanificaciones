@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="90503ed9-c829-42ce-b5fd-f6c9f6f21a0f" name="Changes" comment="new fil">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Ejercicios/EjerciciosGrafos.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Tema1/EjerciciosGrafos.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Ejercicios/GIIT_AMA_2223_Practica1_jelanang_alokenveo.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Tema1/GIIT_AMA_2223_Practica1_jelanang_alokenveo.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Cuestionario 1.zip" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Tema 1/Cuestionario 1.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Cuestionario 2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Tema 1/Cuestionario 2.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Cuestionario 3.zip" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Tema 1/Cuestionario 3.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Cuestionario 4.zip" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Tema 1/Cuestionario 4.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,35 +39,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JLOel/OneDrive/Documentos/tramitesPlanificaciones/estudios/UEX/Matricula&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Users/JLOel/OneDrive/Documentos/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/Enunciado",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Matricula" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\renovacionNIE\documentacion\Matricula" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\GradoSuperior\Asignaturas\BDA\Documentos" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\GradoSuperior\Asignaturas\MIA\Documentacion" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\GradoSuperior\Asignaturas\PIA\Documentacion" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Sesiones\Sesion2\Enunciado" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Sesiones\Sesion2" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Sesiones\Sesion4" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema2\PracticasCasosUso_DiagramaClase_DFlujo" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema2\DocTema2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\AMA\Practicas\Cuestionarios" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\AMA\Practicas\Tema1" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\EC\actividades" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\GradoSuperior\Asignaturas\MIA\Documentacion\Tema 1" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\GradoSuperior\Asignaturas\SBD\DocumentosImag" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Sesiones\Sesion2" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Sesiones\Sesion4\Enunciado" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema2\DocTema2" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema2" />
+      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\ProyectoFinal1\Enunciado" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -153,7 +156,7 @@
       <workItem from="1666118207307" duration="10218000" />
       <workItem from="1666196363354" duration="156000" />
       <workItem from="1666196578001" duration="263000" />
-      <workItem from="1666244619374" duration="10248000" />
+      <workItem from="1666244619374" duration="13522000" />
     </task>
     <task id="LOCAL-00001" summary="New commit2">
       <created>1663510362679</created>
