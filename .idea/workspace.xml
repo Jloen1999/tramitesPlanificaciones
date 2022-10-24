@@ -2,7 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90503ed9-c829-42ce-b5fd-f6c9f6f21a0f" name="Changes" comment="new fil">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/Enunciado_Tema/Sesion02_Relaciones.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/Enunciado_Tema/Sesion02_Relaciones.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/mdp_sesion4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/mdp_sesion4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Camion.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Camion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Comparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Comparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Desguace.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Desguace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Pieza.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Pieza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Reloj.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Reloj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Teclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Teclado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/Vehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/DesguaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/DesguaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestPersona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestPiezaV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestPiezaV4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestPiezaV5.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestPiezaV5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestReloj.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestReloj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestVehiculoV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestVehiculoV4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestVehiculo_V5.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/TestVehiculo_V5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/VehiculoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion2/mdp_sesion2/src/es/unex/cum/mdp/sesion2/test/VehiculoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/Enunciado_Tema/Practica_03_Colecciones.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/Enunciado_Tema/Practica_03_Colecciones.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/Enunciado_Tema/Slides_Practice5_Collections.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/Enunciado_Tema/Slides_Practice5_Collections.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/Enunciado_Tema/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/Enunciado_Tema/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/.fleet/run.json" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/.fleet/run.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/mdp_2223.iml" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/mdp_2223.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Camion.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Camion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Desguace.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Desguace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Pieza.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Pieza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Reloj.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Reloj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Teclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Teclado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/Sesion4/mdp/src/es/unex/cum/mdp/sesion4/Vehiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,27 +90,27 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "C:/Users/JLOel/OneDrive/Escritorio/tramitesPlanificaciones",
+    "last_opened_file_path": "C:/Users/JLOel/OneDrive/Escritorio/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/repaso",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Festivos" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Sesiones\Sesion2\Enunciado" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Sesiones\Sesion2" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Sesiones\Sesion4" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema2\PracticasCasosUso_DiagramaClase_DFlujo" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema2\DocTema2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Sesiones\repaso\src" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Sesiones\Sesion2" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Sesiones\Sesion4\Enunciado" />
       <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema2\DocTema2" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema2" />
-      <recent name="C:\Users\JLOel\OneDrive\Documentos\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\ProyectoFinal1\Enunciado" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -156,6 +204,10 @@
       <workItem from="1666446200891" duration="10000" />
       <workItem from="1666446297442" duration="328000" />
       <workItem from="1666446646396" duration="1691000" />
+      <workItem from="1666525111510" duration="322000" />
+      <workItem from="1666534024038" duration="597000" />
+      <workItem from="1666567221985" duration="8189000" />
+      <workItem from="1666589884746" duration="4184000" />
     </task>
     <task id="LOCAL-00001" summary="New commit2">
       <created>1663510362679</created>
