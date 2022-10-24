@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<!-- Ejemplo de clearfix -->
+<head>
+<style>
+div {
+  border: 3px solid #4CAF50;
+  padding: 5px;
+}
+
+img {
+  float: right;
+}
+
+.clearfix::after { /* clearfix lo emplearemos sobre el contenedor donde se encuentran los elementos flotantes */
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<p>Ejemplo 1: imagen más alta que el elemento que lo contiene:</p>
+
+<div>
+  <img src="https://www.w3schools.com/css/pineapple.jpg" alt="Pineapple" width="170" height="170">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum...
+</div>
+
+<p style="clear:right">Empleando clearfix trick para resolver el problema:</p>
+
+<div class="clearfix">
+  <img src="https://www.w3schools.com/css/pineapple.jpg" alt="Pineapple" width="170" height="170">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum...
+</div>
+
+<p>Problema resuelto!</p>
+
+
+</body>
+</html>

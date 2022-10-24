@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>HTML5 Local Storage</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+
+	<script>
+	function clickCounter() {
+
+	    if (localStorage.clickcount) {
+	     	localStorage.clickcount = Number(localStorage.clickcount) + 1; // Local Storage
+	    } else {
+	      	localStorage.clickcount = 1;
+	    }
+
+	    if (sessionStorage.clickcount) {
+      		sessionStorage.clickcount = Number(sessionStorage.clickcount) + 1;// Session Storage
+    	} else {
+      		sessionStorage.clickcount = 1;
+    	}
+
+	    document.getElementById("result").innerHTML = "Contador Local = " + localStorage.clickcount + "<br>Contador Sesión = " + sessionStorage.clickcount;
+	  
+	}
+	</script>
+</head>
+
+<body>
+
+	<p><button onclick="clickCounter()" type="button">Contador++</button></p>
+	<p>Pulse el botón para sumar uno</p>
+
+	<div id="result">Contador Local = <br>Contador Sesión = </div>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>  
+<html>  
+<body>  
+  <h2>Google Map Example</h2>  
+  
+  <div id="map" style="width:100%;height:600px"></div>  
+  
+  
+  <script>  
+  function Map123() {  
+  var mapOptions = {  
+      center:new google.maps.LatLng(38.90716314833059, -6.3383329949405285),  
+      zoom: 16,  
+      mapTypeId: google.maps.MapTypeId.HYBRID  
+  }  
+  var map = new google.maps.Map(document.getElementById("map"), mapOptions);  
+  }  
+  </script>  
+  
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpCo-lkEZGXxz1RwpQsd0pnadPTe09frM&callback=Map123">
+  </script>  
+
+<!--   <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=Map123">  
+  </script>  -->
+</body>  
+</html>

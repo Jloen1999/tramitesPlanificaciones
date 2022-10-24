@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<!-- Uso de display para mostrar / ocultar elementos -->
+<head>
+<!-- Primer paso, definir los estilos CSS, con la propiedad display en none por defecto -->
+<style>
+#panel, .flip {
+  font-size: 16px;
+  padding: 10px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+  border: solid 1px #a6d8a8;
+  margin: auto;
+}
+
+#panel {
+  display: none;
+}
+</style>
+<!-- Segundo paso: implementar una función JS que modifique la propiedad display según su valor actual (block -> none, none -> block) -->
+<script>
+function mostrar() {
+	if(document.getElementById("panel").style.display == "block"){
+		document.getElementById("panel").style.display = "none";
+	}
+	else{
+		document.getElementById("panel").style.display = "block";
+	}
+}
+</script>
+
+</head>
+<body>
+
+<p class="flip" onclick="mostrar()">Haz click para mostrar más</p>
+
+<div id="panel">
+  <p>Este panel contiene un contenedor div, oculto por defecto (display: none).</p>
+  <p>Mediante la propiedad CSS y JS conseguimos mostrarlo (display: block).</p>
+  <p>El párrafo con clase flip tiene asociado un atributo onclick que permite la llamada a la función mostrar cuando el usuario haga click en el párrafo (como si fuera un botón). La función implementada permite mostrar u ocultar el contenedor según el estado de su propiedad display.</p>
+</div>
+
+</body>
+</html>

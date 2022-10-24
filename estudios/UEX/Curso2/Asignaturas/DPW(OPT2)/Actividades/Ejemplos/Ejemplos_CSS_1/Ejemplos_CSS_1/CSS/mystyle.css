@@ -1,0 +1,31 @@
+body{
+	background: #ffffff url("img-tree.png") no-repeat right top;
+}
+
+h1{
+	color: navy;
+	font-size: 24px;
+	margin-left: 20px;
+}
+
+p{
+	color: red;
+	text-align: left;
+}
+
+.center{
+	color: black;
+	text-align: center;
+	font-size: 18px;
+	font-family: verdana;
+}
+
+p.center{
+	color: grey;
+	font-size: 14px;
+}
+
+#para1{
+	color: green;
+	text-align: right;
+}
