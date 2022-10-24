@@ -24,6 +24,11 @@ Pareja: Fredy
   - !Password: Y7369285
   - User Teacher: mariomp2223
 
+<span style="color:red">Tutoria:</span>
+
+![tutoria](Doc_Img/tutoria.png)
+
+
 # APUNTES
 
 ## Tema 1:  Teoría en Grafos
