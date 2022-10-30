@@ -1,9 +1,10 @@
 # ESTRUCTURA DE COMPUTADORES
+
 Profesor Teoría: Javier Plaza Miguel
 
 Despacho: 17
 
-Correo: jplaza@unex.es  
+Correo: jplaza@unex.es
 
 Profesora Prácticas: Violeta Hidalgo Izquierdo
 
@@ -16,8 +17,8 @@ Grupo: A(Jueves) 12-14h
 Url Campus: [EC](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=12187)
 
 # APUNTES
-## Tema 1: Estructura de Computadores en el Plan de estudios del Grado en IITI
 
+## Tema 1: Estructura de Computadores en el Plan de estudios del Grado en IITI
 
 <p style="color: green">Publicado el 13/09/2022</p>
 <div>
@@ -72,19 +73,22 @@ Url Campus: [EC](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=
 </div>
 
 # Tema 2: Arquitectura del repertorio de instrucciones
-- Dudas: 
+
+- Dudas:
+
   - ciclo TIC y TOC
   - Arquitectura tipo pila y acumulador
-
-- Modo de direccionamiento: Las diferentes formas que tiene la arquitectura en la forma de operar las instrucciones. 
-- El registro a registro es más rápido porque accedes directamente a las operaciones. 
+- Modo de direccionamiento: Las diferentes formas que tiene la arquitectura en la forma de operar las instrucciones.
+- El registro a registro es más rápido porque accedes directamente a las operaciones.
 - En cualquier arquitectura la operación más rápida es de memoria
-- Ejercicio: 
+- Ejercicio:
+
   - problema 11: A = ((B + C) * D)/(E - F * G - H * I)
-- Pila: 
+- Pila:
+
 
 | Instrucciones PILA |
-|--------------------|
+| ------------------ |
 | PUSH B             |
 | PUSH D             |
 | ADD                |
@@ -101,9 +105,10 @@ Url Campus: [EC](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=
 | SUB                |
 | DIV                |
 | POP A              |
-    
+
+
 | ACUMULADOR |
-|------------|
+| ---------- |
 | LOAD B     |
 | ADD C      |
 | MUL D      |
@@ -124,13 +129,14 @@ Url Campus: [EC](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=
 
 
 | REGISTRO A REGISTRO |
-|---------------------|
+| ------------------- |
 | LOAD R1, B          |
 | LOAD                |
 
 Variables ortogonales son aquellos que son independientes entre sí.
 
 Ejercicio 1:
+
 - 32 bits -->Representa el tamaño de palabra
 - 16 REG(32 bits) -->4bits
 - 256 MPalabras --> 28bits
@@ -139,8 +145,9 @@ Ejercicio 1:
 - 7 **MD**
 - **ORTOGONALES**
 
-| COP |OP1| OP2 |
-|-----|----|-----|
-| 1   || |
+
+| COP | OP1 | OP2 |
+| --- | --- | --- |
+| 1   |     |     |
 
 ![img.png](img.png)

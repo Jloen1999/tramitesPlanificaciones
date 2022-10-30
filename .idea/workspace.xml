@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="90503ed9-c829-42ce-b5fd-f6c9f6f21a0f" name="Changes" comment="new fil">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/Ejemplos/Ejemplos HTML5.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/Ejemplos/Ejemplos_CSS_1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/Ejemplos/Ejemplos_CSS_2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/Enunciado.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/ProyectoFinal/Doc/Enunciado.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio6b.s" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio6b.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/JoseLuisObiangEN_Ejercicio2-A.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/JoseLuisObiangEN_Ejercicio2-A.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/JoseLuisObiangEN_Ejercicio2-B.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/JoseLuisObiangEN_Ejercicio2-B.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/ipo.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/ipo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/repaso/src/Ciudadano.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/repaso/src/Ciudadano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/repaso/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/repaso/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/taskList.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/taskList.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,41 +45,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "C:/Users/JLOel/OneDrive/Escritorio/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/Ejemplos",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.rainbow.brackets",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JLOel/OneDrive/Escritorio/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;liveEdit&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Temas\Tema1" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Temas\Tema2" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Temas" />
       <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\DPW(OPT2)\Actividades\Ejemplos" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\DPW(OPT2)\Temas\Tema3" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\DPW(OPT2)\Temas" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\DPW(OPT2)\Actividades\ProyectoFinal" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Festivos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\DPW(OPT2)\Actividades\Ejemplos" />
+      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Temas\Tema1" />
       <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\DPW(OPT2)\Actividades\ProyectoFinal\Doc" />
       <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\DPW(OPT2)\Temas\Tema1" />
       <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\DPW(OPT2)\Temas\Tema2" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\AMA\Doc_Img" />
-      <recent name="C:\Users\JLOel\OneDrive\Escritorio\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Sesiones\repaso\src" />
     </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="ejemplosMarkDown.md" />
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="repaso.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/Actividades/Ejemplos/repaso.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.repaso.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -165,7 +182,19 @@
       <workItem from="1666567221985" duration="8189000" />
       <workItem from="1666589884746" duration="5756000" />
       <workItem from="1666615149620" duration="2206000" />
-      <workItem from="1666627250186" duration="1475000" />
+      <workItem from="1666627250186" duration="1774000" />
+      <workItem from="1666739542676" duration="605000" />
+      <workItem from="1666766855983" duration="4061000" />
+      <workItem from="1666780740071" duration="162000" />
+      <workItem from="1666799097885" duration="1420000" />
+      <workItem from="1666853081775" duration="14062000" />
+      <workItem from="1666901429950" duration="2868000" />
+      <workItem from="1666910928506" duration="1415000" />
+      <workItem from="1666912388608" duration="3732000" />
+      <workItem from="1666916377330" duration="8648000" />
+      <workItem from="1666951429849" duration="2153000" />
+      <workItem from="1666957098318" duration="660000" />
+      <workItem from="1667062593244" duration="9719000" />
     </task>
     <task id="LOCAL-00001" summary="New commit2">
       <created>1663510362679</created>

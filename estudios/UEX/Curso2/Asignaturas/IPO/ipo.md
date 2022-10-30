@@ -14,6 +14,8 @@ Correo: vhidalgo@unex.es
 
 Url Campus: [IPO](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=11839)
 
+Apuntes de Pablo: [Apuntes](https://unexes-my.sharepoint.com/:f:/g/personal/psetraki_alumnos_unex_es/EozoqkidEHVMuxlFTYFvddAB6ZAv98p8HFB_-643jNVT1A?e=XXgynt)
+
 # APUNTES
 # Tema 1: Interacción Persona Ordenador
 ```mermaid

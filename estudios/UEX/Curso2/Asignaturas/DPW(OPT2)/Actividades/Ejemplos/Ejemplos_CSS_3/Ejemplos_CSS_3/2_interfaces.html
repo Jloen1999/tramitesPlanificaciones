@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+
+#noResize {
+	resize: none;
+}
+
+.clase1 {
+  border: 2px solid;
+  padding: 20px; 
+  width: 300px;
+  resize: horizontal;
+  overflow: auto;
+}
+
+.clase2 {
+  border: 2px solid;
+  padding: 20px; 
+  width: 300px;
+  resize: vertical;
+  overflow: auto;
+}
+
+.clase3 {
+  border: 2px solid;
+  padding: 20px; 
+  width: 300px;
+  resize: both;
+  overflow: auto;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Propiedad resize CSS3</h1>
+
+<br>
+
+<textarea id="noResize">TEXTAREA no resize</textarea>
+
+<br><hr>
+
+<div class="clase1">
+  <p>DIV con resize horizontal</p>
+</div>
+
+<br>
+
+<textarea class="clase1">TEXTAREA con resize horizontal</textarea>
+
+<br><hr>
+
+<div class="clase2">
+  <p>DIV con resize vertical</p>
+</div>
+
+<br>
+
+<textarea class="clase2">TEXTAREA con resize vertical</textarea>
+
+<br><hr>
+
+<div class="clase3">
+  <p>DIV con resize horizontal y vertical</p>
+</div>
+
+<br>
+
+<textarea class="clase3">TEXTAREA con resize horizontal y vertical</textarea>
+
+
+</body>
+</html>
