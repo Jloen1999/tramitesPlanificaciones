@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="90503ed9-c829-42ce-b5fd-f6c9f6f21a0f" name="Changes" comment="new fil">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio6b.s" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio6b.s" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/JoseLuisObiangEN_Ejercicio2-A.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/JoseLuisObiangEN_Ejercicio2-A.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/JoseLuisObiangEN_Ejercicio2-B.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/JoseLuisObiangEN_Ejercicio2-B.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/ipo.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/ipo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/repaso/src/Ciudadano.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/repaso/src/Ciudadano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/repaso/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Sesiones/repaso/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/taskList.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/taskList.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +186,8 @@
       <workItem from="1666916377330" duration="8648000" />
       <workItem from="1666951429849" duration="2153000" />
       <workItem from="1666957098318" duration="660000" />
-      <workItem from="1667062593244" duration="9719000" />
+      <workItem from="1667062593244" duration="10056000" />
+      <workItem from="1667205840223" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="New commit2">
       <created>1663510362679</created>
