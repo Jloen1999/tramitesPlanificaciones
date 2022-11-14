@@ -4,11 +4,18 @@
     result: .space 16
     size: .word 4
     string: .asciiz "Introduce una opcion 0|1: \n"
+    string1: .asciiz "Elemento "
+    puntos: .asciiz ": "
+    salto: .asciiz "\n"
+    pos: .word 1, 2, 3, 4
+    suma: .asciiz "Suma de elementos\n"
+    resta: .asciiz "Resta de elementos\n"
+    ceros: .asciiz "No es ni suma ni resta\n"
 
 .text
     .globl main
 
-main:
+    main:
     la $a0, string   #Mostramos mensaje por pantalla
     li, $v0, 4
     syscall
@@ -22,16 +29,46 @@ main:
     la $a2, result #Guardo el array resultante en el registro $a2
     jal calculo #Llamo a la funcion guardando la posicion de la siguiente intruccion
 
-    #Imprimir
-
-    li $v0, 10  #Salida del programa
+    li $t6, 0
+    li $t7, 0
+    bne $a3, 0, print_resta
+                    #Imprime el mensaje "Suma de elementos\n"
+    la $a0,suma
+    li, $v0,4
     syscall
+    imprimir:
+                     #imprime el mensaje "Elemento "
+        la $a0,string1
+        li, $v0,4
+        syscall
+                    #Imprime el indice+1
+        lw $a0, pos($t6)
+        li, $v0,1
+        syscall
+                    #imprime ": "
+        la $a0,puntos
+        li, $v0,4
+        syscall
+                    #Imprime el elemento del array
+        lw $a0, result($t6)
+        li, $v0,1
+        syscall
 
+                    #Con salto de linea
+        la $a0,salto
+        li, $v0,4
+        syscall
+
+        addi $t6, $t6, 4
+        addi $t7, $t7, 1        #i++
+        blt $t7, $t2, imprimir
+        li, $v0,10
+        syscall
 
 calculo:
     li $t0, 0   #Creo registros contadores: $t0 indice de iteracion de cada uno de los elementos del array
-    li $t1, 1   #$t1 indice de stop del bucle
-    lw $t2, size($t1)
+    li $t1, 0   #$t1 indice de stop del bucle
+    lw $t2, size($t0)
 
     bucle:      bge $t1, $t2, fuera_bucle
                 lw $t3, 0($a0)  #Almaceno elemento de array1 en $t3
@@ -57,6 +94,19 @@ fuera_switch:   addi $t1, $t1, 1
                 addi $a2, $a2, 4
                 b bucle
 fuera_bucle: jr $ra
+
+print_ceros:    #Imprime el mensaje "No es ni suma ni resta"
+                la $a0,ceros
+                li, $v0,4
+                syscall
+                b imprimir
+
+print_resta:    #Imprime el mensaje "Resta de elementos\n"
+                bne $a3, 1, print_ceros
+                la $a0,resta
+                li, $v0,4
+                syscall
+                b imprimir
 
 
 
