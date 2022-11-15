@@ -16,6 +16,15 @@ Grupo: A(Jueves) 12-14h
 
 Url Campus: [EC](https://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=12187)
 
+Entraga de los ejercicios:
+- [entrega 1](https://campusvirtual.unex.es/zonauex/avuex/mod/assign/view.php?id=1535967)
+- [entrega 2](https://campusvirtual.unex.es/zonauex/avuex/mod/assign/view.php?id=1538368)
+- [entrega 3](https://campusvirtual.unex.es/zonauex/avuex/mod/assign/view.php?id=1540332)
+- [entrega 4](https://campusvirtual.unex.es/zonauex/avuex/mod/assign/view.php?id=1542746)
+- [entrega 5](https://campusvirtual.unex.es/zonauex/avuex/mod/assign/view.php?id=1546607)
+
+
+
 # APUNTES
 
 ## Tema 1: Estructura de Computadores en el Plan de estudios del Grado en IITI
