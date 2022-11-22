@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d3e8843-321f-4a84-88d0-4315b6e3b869" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio14Othmane.s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio14bOthmane.s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio14bPablo.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Temas/Tema4/Tema4IPO.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Enunciado/EntregasFinal_2223.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Tema3/Tema3_Excepciones.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Tema4/Tema4_Pruebas.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio14.s" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio14.s" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio14b.s" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio14b.s" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JLOel/Desktop/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/EC/actividades&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JLOel/Desktop/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Enunciado&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -49,9 +48,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\ProyectoFinal2\Enunciado" />
+      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP" />
+      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema3" />
+      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema4" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\EC\actividades" />
-      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios\VisualBasic" />
-      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Temas\Tema4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,7 +72,8 @@
       <workItem from="1668818913813" duration="1471000" />
       <workItem from="1668820966299" duration="24000" />
       <workItem from="1668875249261" duration="2978000" />
-      <workItem from="1669052733593" duration="5366000" />
+      <workItem from="1669052733593" duration="42885000" />
+      <workItem from="1669152569972" duration="268000" />
     </task>
     <servers />
   </component>
