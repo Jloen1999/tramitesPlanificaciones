@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d3e8843-321f-4a84-88d0-4315b6e3b869" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Temas/Tema4/Tema4IPO.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Enunciado/EntregasFinal_2223.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Tema3/Tema3_Excepciones.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/Temas/Tema4/Tema4_Pruebas.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/Guión.docx" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/Guión.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,7 @@
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\EC\actividades" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Temas\Tema4" />
     </key>
   </component>
@@ -74,6 +72,10 @@
       <workItem from="1668875249261" duration="2978000" />
       <workItem from="1669052733593" duration="42885000" />
       <workItem from="1669152569972" duration="268000" />
+      <workItem from="1669157912372" duration="94000" />
+      <workItem from="1669195594711" duration="24000" />
+      <workItem from="1669196589099" duration="870000" />
+      <workItem from="1669197991324" duration="18000" />
     </task>
     <servers />
   </component>
