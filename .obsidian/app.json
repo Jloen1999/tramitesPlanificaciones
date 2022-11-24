@@ -3,5 +3,17 @@
     "en-US",
     "es-ES"
   ],
-  "showFrontmatter": false
+  "showFrontmatter": true,
+  "spellcheck": false,
+  "autoPairMarkdown": true,
+  "spellcheckDictionary": [
+    "TrabajoTutorizadoEC"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

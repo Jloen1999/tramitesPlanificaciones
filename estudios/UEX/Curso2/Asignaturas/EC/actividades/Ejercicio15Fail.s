@@ -22,6 +22,22 @@ main:
     li $v0, 10
     syscall
 
-suma: add $v0, $a0, $a1
-      jr $ra
+suma:   #add $v0, $a0, $a1
+        #jal otra_rutina
+        #jr $ra
 
+        #Primero apilamos
+        addi $sp, $sp, -4
+        sw $ra, 0($sp)
+
+        add $v0, $a0, $a1   #Realizamos la suma
+
+        #Luego Desapilamos
+        lw $ra, 0($sp)
+        addi $sp, $sp, 4
+        jr $ra
+
+
+
+otra_rutina: #rutina vacia
+             jr $ra

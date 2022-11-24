@@ -4,36 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "36d97534cd3b99ed",
+        "id": "3f35374002de0b0e",
         "type": "tabs",
         "children": [
           {
-            "id": "af66d89590a95be1",
+            "id": "baf5a24590b2a635",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "app.Obsidian/templates/New templates.md",
+                "file": "app.Obsidian/database/Tables/Usuario/@Luis Arévalo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "824e6be390afdbda",
+            "id": "97a9299ab7e65fae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "app.Obsidian/timeline/TaskListUEX.md",
+                "file": "app.Obsidian/database/Tables/Usuario/@Pablo Setrakian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,7 +46,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2d552a9bdebf763",
+            "id": "36a7aeb27d4bdb1f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,9 +64,19 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db9a63eac97aaae5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "app.Obsidian/Kanban/Issues1MDP_EF2.md"
               }
             }
           },
@@ -80,22 +89,10 @@
             }
           },
           {
-            "id": "a46736c4f5e1de9c",
+            "id": "dd88c293d85fe4b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "app.Obsidian/templates/New templates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3abf7345ba2aa20a",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -103,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 224.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "9bc41589e76e6097",
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "app.Obsidian/timeline/TaskListUEX.md",
+                "file": "app.Obsidian/database/Tables/Usuario/@Pablo Setrakian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "app.Obsidian/timeline/TaskListUEX.md",
+                "file": "app.Obsidian/database/Tables/Usuario/@Pablo Setrakian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "app.Obsidian/timeline/TaskListUEX.md"
+                "file": "app.Obsidian/database/Tables/Usuario/@Pablo Setrakian.md"
               }
             }
           },
@@ -188,7 +186,31 @@
             }
           },
           {
-            "id": "b55de996c8010373",
+            "id": "d0c3b0cbcdc96c1b",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb923555a03bb909",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "3638740cfa8fcdc4",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "b013284aeffd2e36",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -196,29 +218,31 @@
             }
           },
           {
-            "id": "d0c3b0cbcdc96c1b",
+            "id": "5e89b0287dc61903",
             "type": "leaf",
             "state": {
-              "type": "code-execute-manage-executors",
+              "type": "custom-frames-github",
               "state": {}
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 294.5
   },
-  "active": "824e6be390afdbda",
+  "active": "b013284aeffd2e36",
   "lastOpenFiles": [
-    "app.Obsidian/templates/Article name.md",
-    "app.Obsidian/templates/New templates.md",
-    "app.Obsidian/timeline/TaskListUEX.md",
-    "[(36120).md",
-    "estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md",
-    "app.Obsidian/notes/sdfgsdfgsdfg.md",
-    "app.Obsidian/people/@Luis Arévalo.md"
+    "app.Obsidian/database/Tables/Usuario/@Luis Arévalo.md",
+    "app.Obsidian/notes/Use plantilla.md",
+    "app.Obsidian/Kanban/Issues1MDP_EF2.md",
+    "app.Obsidian/database/Tables/Usuario/@Pablo Setrakian.md",
+    "app.Obsidian/subjects/mdp/2EF/docu/requisitos.excalidraw",
+    "app.Obsidian/Diagram/Diagram1.svg",
+    "Untitled.md",
+    "app.Obsidian/templates/4 star.md",
+    "app.Obsidian/database/queries.md",
+    "renovacionNIE/documentacion/documetacionRequeridaExtranjeriaTasa/justificante_Y7369285F_18082022101910.pdf"
   ]
 }

@@ -47,12 +47,12 @@
 
 ***Curso2***
 
-<img src="../../../../images/calendario.png" width="630" alt="calendario">
+
+![asignaturasMatriculadas](../../../../images/calendario.png)
 
 ***Curso4***
 
-<img src="../../../../images/calendario2.png" width="634" alt="calendario2">
-
+![asignaturasMatriculadas](../../../../images/calendario2.png)
 
 | ASIGNATURAS                                                                |
 |----------------------------------------------------------------------------|
@@ -86,7 +86,7 @@ Horas:
   
 ````
 
-<img src="../../../../images/calendario1.png" width="676" alt="calendario1">
+![asignaturasMatriculadas](../../../../images/calendario1.png)
 
 ***MATRICULA***
 

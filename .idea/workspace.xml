@@ -5,8 +5,285 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d3e8843-321f-4a84-88d0-4315b6e3b869" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/better-pdf-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/better-pdf-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/better-pdf-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/buttons/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/buttons/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/buttons/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/calendar/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/calendar/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/calendar/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/cm-editor-syntax-highlight-obsidian/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/cm-editor-syntax-highlight-obsidian/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/cm-editor-syntax-highlight-obsidian/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/cmenu-plugin/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/cmenu-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/cmenu-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/cmenu-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/code-block-copy/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/code-block-copy/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/code-block-copy/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/convert-url-to-iframe/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/convert-url-to-iframe/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/convert-url-to-iframe/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/copy-as-html/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/copy-as-html/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/csv-obsidian/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/csv-obsidian/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/csv-obsidian/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/darlal-switcher-plus/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/darlal-switcher-plus/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/darlal-switcher-plus/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/dataview/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/dataview/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/dataview/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/dbfolder/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/dbfolder/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/dbfolder/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/drawio-obsidian/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/drawio-obsidian/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/drawio-obsidian/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/drawio-obsidian/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/duplicate-line/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/duplicate-line/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/emoji-shortcodes/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/emoji-shortcodes/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/emoji-shortcodes/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/execute-code/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/execute-code/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/execute-code/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/file-explorer-note-count/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/file-explorer-note-count/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/file-explorer-note-count/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/file-tree-alternative/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/file-tree-alternative/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/file-tree-alternative/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/file-tree-alternative/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/highlightr-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/highlightr-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/highlightr-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/language-translator/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/language-translator/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/language-translator/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/markdown-prettifier/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/markdown-prettifier/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/markdown-prettifier/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/multi-column-markdown/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/multi-column-markdown/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/multi-column-markdown/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/nldates-obsidian/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/nldates-obsidian/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/notion-like-tables/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/notion-like-tables/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/notion-like-tables/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/notion-like-tables/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-admonition/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-admonition/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-admonition/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-admonition/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-annotator/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-annotator/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-autocomplete-plugin/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-autocomplete-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-autocomplete-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-autocomplete-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-banners/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-banners/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-banners/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-better-codeblock/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-better-codeblock/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-better-codeblock/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-book-search-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-book-search-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-book-search-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-checklist-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-checklist-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-checklist-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-code-block-enhancer/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-code-block-enhancer/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-code-block-enhancer/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-codemirror-options/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-codemirror-options/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-codemirror-options/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-collapse-all-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-collapse-all-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-custom-frames/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-custom-frames/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-custom-frames/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-day-planner/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-day-planner/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-day-planner/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-dialogue-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-dialogue-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-dialogue-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-dictionary-plugin/cache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-dictionary-plugin/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-dictionary-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-dictionary-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-dictionary-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-embedded-code-title/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-embedded-code-title/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-embedded-code-title/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-emoji-toolbar/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-emoji-toolbar/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-emoji-toolbar/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-enhancing-mindmap/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-enhancing-mindmap/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-enhancing-mindmap/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excel-to-markdown-table/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excel-to-markdown-table/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excel-to-markdown-table/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-extract-pdf-highlights/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-extract-pdf-highlights/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-extract-pdf-highlights/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-extract-pdf-highlights/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-focus-mode/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-focus-mode/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-focus-mode/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-frontmatter-tag-suggest/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-frontmatter-tag-suggest/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-gallery/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-gallery/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-gallery/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-gallery/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-git/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-git/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-git/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-icon-folder/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-icon-folder/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-icon-folder/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-icon-folder/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-icons-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-icons-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-icons-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-indent-lines/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-indent-lines/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-indent-lines/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-kanban/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-kanban/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-kanban/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-kindle-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-kindle-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-languagetool-plugin/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-languagetool-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-languagetool-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-languagetool-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-livesync/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-local-images/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-local-images/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-local-images/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-map-view/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-map-view/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-map-view/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-markdown-formatting-assistant-plugin/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-markdown-formatting-assistant-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-markdown-formatting-assistant-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-markdown-formatting-assistant-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-math-plus/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-math-plus/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-math-plus/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-metatable/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-metatable/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-metatable/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-mind-map/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-mind-map/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-outliner/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-outliner/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-outliner/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-pandoc/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-pandoc/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-pandoc/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-plugin-toc/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-plugin-toc/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-pomodoro-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-pomodoro-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-pomodoro-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-reading-time/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-reading-time/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-reminder-plugin/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-reminder-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-reminder-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-reminder-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-smart-typography/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-smart-typography/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-tabs/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-tabs/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-tabs/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-task-progress-bar/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-task-progress-bar/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-task-progress-bar/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-tasks-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-tasks-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-tasks-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-text-format/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-text-format/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-tweet-to-markdown/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-tweet-to-markdown/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-zoom/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-zoom/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-zoom/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/oz-image-plugin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/oz-image-plugin/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/oz-image-plugin/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/periodic-notes/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/periodic-notes/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/periodic-notes/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/quick-explorer/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/quick-explorer/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/quick-explorer/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/quick-latex/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/quick-latex/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/quick-latex/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/review-obsidian/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/review-obsidian/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/sliding-panes-obsidian/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/sliding-panes-obsidian/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/sliding-panes-obsidian/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/tag-wrangler/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/tag-wrangler/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/tag-wrangler/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/templater-obsidian/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/templater-obsidian/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/templater-obsidian/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/url-into-selection/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/url-into-selection/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/workspaces-plus/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/workspaces-plus/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/workspaces-plus/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/templates.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/themes/Things/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/themes/Things/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day Planners/Day Planner-20221124.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNEX.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNEX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[(36120).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_notion-like-tables/table-id-ekxncp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.Obsidian/notes/sdfgsdfgsdfg.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.Obsidian/templates/Article name.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.Obsidian/templates/New templates.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.Obsidian/timeline/TaskListUEX.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio15.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio15Entrega.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio15Fail.s" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/Guión.docx" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/Guión.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/appearance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/backlink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/core-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/core-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/hotkeys.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/hotkeys.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/mdp.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/mdp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,35 +300,40 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HfiC9SaesonClSB0nUtoiy7aRY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JLOel/Desktop/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Enunciado&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Users/JLOel/Desktop/tramitesPlanificaciones/estudios/UEX/Curso2/Asignaturas/EC/actividades",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\EC\actividades" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\ProyectoFinal2\Enunciado" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema3" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema4" />
-      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\EC\actividades" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\app.Obsidian" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Temas\Tema4" />
     </key>
@@ -76,6 +358,10 @@
       <workItem from="1669195594711" duration="24000" />
       <workItem from="1669196589099" duration="870000" />
       <workItem from="1669197991324" duration="18000" />
+      <workItem from="1669198091761" duration="2009000" />
+      <workItem from="1669205737444" duration="1255000" />
+      <workItem from="1669237889293" duration="7000" />
+      <workItem from="1669260677970" duration="7564000" />
     </task>
     <servers />
   </component>
@@ -92,5 +378,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

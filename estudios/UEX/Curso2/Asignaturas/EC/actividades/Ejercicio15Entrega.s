@@ -1,43 +1,51 @@
 .data
-dato1: .word 6
-dato2: .word 3
-dato3: .word 2
-dato4: .word 5
-res1: .space 4
-res2: .space 4
+    A: .word 6, 5, 4, 3, 2, 1
+    B: .word 1, 2, 3, 4, 5, 6
+    size: .word 6
+    res: .space 4
 
 .text
     .globl main
 
-main:
-    lw $a0, dato1($0)
-    lw $a1, dato2($0)
-    jal suma
-    sw $v0, res1($0)
+main:   lw $a2, size($0)
+        la $a0, A
+        la $a1, B
+        jal sumatorio
+        li $v0, 10
+        syscall
 
-    lw $a0, dato3($0)
-    lw $a1, dato4($0)
-    jal suma
-    sw $v0, res2($0)
-    li $v0, 10
-    syscall
+sumatorio:  #Apilamos
+            addi $sp, $sp, -16
+            sw $ra, 0($sp)
+            sw $a0, 4($sp)
+            sw $a1, 8($sp)
+            sw $a2, 12($sp)
 
-suma:   #add $v0, $a0, $a1
-        #jal otra_rutina
-        #jr $ra
+            move $t0, $a0
+            move $t1, $a1
+            move $t2, $a2
+            li $t3, 1
 
-        #Primero apilamos
-        addi $sp, $sp, -4
-        sw $ra, 0($sp)
+        for: bgt $t3, $a2, fin
+             lw $a0, 0($t0)
+             lw $a1, 0($t1)
+             jal suma
+             add $t4, $t4, $v0
+             addi $t3, $t3, 1
+             addi $t1, $t1, 4
+             addi $t0, $t0, 4
+             j for
 
-        add $v0, $a0, $a1   #Realizamos la suma
+       fin: move $v0, $t4
+            lw $ra, 0($sp)
+            lw $a0, 4($sp)
+            lw $a1, 8($sp)
+            lw $a2, 12($sp)
+            addi $sp, $sp, 16
+            jr $ra
 
-        #Luego Desapilamos
-        lw $ra, 0($sp)
-        addi $sp, $sp, 4
+suma:   add $v0, $a0, $a1
         jr $ra
 
 
 
-otra_rutina: #rutina vacia
-             jr $ra
