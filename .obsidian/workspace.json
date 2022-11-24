@@ -1,46 +1,53 @@
 {
   "main": {
-    "id": "f43679d947b8b585",
+    "id": "be4b2eb9836eba97",
     "type": "split",
     "children": [
       {
-        "id": "7f4aee6f4d13a0d4",
+        "id": "36d97534cd3b99ed",
         "type": "tabs",
         "children": [
           {
-            "id": "cb743c336630c0be",
+            "id": "af66d89590a95be1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "app.Obsidian/templates/New templates.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "27aa53f5837f67d4",
+            "id": "824e6be390afdbda",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/AMA/Doc_Img/apunte2_13092022.jpg"
+                "file": "app.Obsidian/timeline/TaskListUEX.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ce943404bdd19a16",
+    "id": "2443a1898bda956a",
     "type": "split",
     "children": [
       {
-        "id": "6bd40cc227ff0588",
+        "id": "992a134059d4329b",
         "type": "tabs",
         "children": [
           {
-            "id": "eba103f29dae2dba",
+            "id": "b2d552a9bdebf763",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,12 +57,12 @@
             }
           },
           {
-            "id": "139ea9fbf95acba8",
+            "id": "8d2ce545814f1b0c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "file:readme",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,10 +72,30 @@
             }
           },
           {
-            "id": "552d8143c71523fc",
+            "id": "7be9e53da175db5a",
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a46736c4f5e1de9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "app.Obsidian/templates/New templates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3abf7345ba2aa20a",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
               "state": {}
             }
           }
@@ -79,44 +106,44 @@
     "width": 300
   },
   "right": {
-    "id": "d2dce60b2d19bd76",
+    "id": "9bc41589e76e6097",
     "type": "split",
     "children": [
       {
-        "id": "2bcfde1c3dbc21df",
+        "id": "4a7dd3e0c9b42f26",
         "type": "tabs",
         "children": [
           {
-            "id": "1b6af916aac3726f",
+            "id": "5644a79a77b775a6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/AMA/Doc_Img/apunte2_13092022.jpg",
+                "file": "app.Obsidian/timeline/TaskListUEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d0b5cba98ce89282",
+            "id": "5cde9aede55df75a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/AMA/Doc_Img/apunte2_13092022.jpg",
+                "file": "app.Obsidian/timeline/TaskListUEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1cd6c13b438b8c9e",
+            "id": "200baa1786f67ff4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -127,36 +154,71 @@
             }
           },
           {
-            "id": "a101908804ccb7f2",
+            "id": "517a20ede372e75b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/AMA/Doc_Img/apunte2_13092022.jpg"
+                "file": "app.Obsidian/timeline/TaskListUEX.md"
               }
             }
+          },
+          {
+            "id": "b7a1be097de88319",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "67b3714f985d79f5",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          },
+          {
+            "id": "6649fa073986022b",
+            "type": "leaf",
+            "state": {
+              "type": "metatable-sidebar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b55de996c8010373",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0c3b0cbcdc96c1b",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "27aa53f5837f67d4",
+  "active": "824e6be390afdbda",
   "lastOpenFiles": [
-    "review.md",
-    "estudios/UEX/Curso2/Asignaturas/AMA/ama.md",
-    "estudios/UEX/Curso2/Asignaturas/AMA/Temas/Tema1GrafosAlum.pdf",
-    "estudios/UEX/Curso2/Asignaturas/IPO/ipo.md",
+    "app.Obsidian/templates/Article name.md",
+    "app.Obsidian/templates/New templates.md",
+    "app.Obsidian/timeline/TaskListUEX.md",
+    "[(36120).md",
     "estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md",
-    "().md",
-    "Pasted.md",
-    "repaso.md.md",
-    "estudios/taskList.md",
-    "README.md"
+    "app.Obsidian/notes/sdfgsdfgsdfg.md",
+    "app.Obsidian/people/@Luis Arévalo.md"
   ]
 }

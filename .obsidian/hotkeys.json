@@ -1,5 +1,5 @@
 {
-  "file-explorer:move-file": [
+  "obsidian-admonition:insert-admonition": [
     {
       "modifiers": [
         "Mod",
@@ -8,16 +8,52 @@
       "key": "A"
     }
   ],
-  "workspace:export-pdf": [
+  "app:toggle-right-sidebar": [
     {
       "modifiers": [
-        "Alt",
         "Mod"
       ],
-      "key": "P"
+      "key": "ArrowRight"
     }
   ],
-  "backlink:open-backlinks": [
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "editor:toggle-comments": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-autocomplete-plugin:autocomplete-toggle": [],
+  "obsidian-autocomplete-plugin:autocomplete-scan-current-file-default": [],
+  "editor:insert-embed": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "buttons:inline-button": [
     {
       "modifiers": [
         "Mod",
@@ -26,13 +62,22 @@
       "key": "B"
     }
   ],
-  "open-with-default-app:show": [
+  "calendar:show-calendar-view": [
     {
       "modifiers": [
-        "Mod",
+        "Alt",
         "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "cmenu-plugin:editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Alt"
       ],
       "key": "S"
     }
-  ]
+  ],
+  "convert-url-to-iframe:url-to-iframe": []
 }

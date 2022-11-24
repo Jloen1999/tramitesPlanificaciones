@@ -1,7 +1,5 @@
 {
-  "interfaceFontFamily": "",
-  "textFontFamily": "Cascadia Code",
-  "baseFontSize": 19,
-  "theme": "moonstone",
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Things",
+  "interfaceFontFamily": ""
 }

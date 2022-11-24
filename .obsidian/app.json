@@ -1,9 +1,7 @@
 {
-  "spellcheck": true,
   "spellcheckLanguages": [
     "en-US",
-    "es"
+    "es-ES"
   ],
-  "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showFrontmatter": false
 }
