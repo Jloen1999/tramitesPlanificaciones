@@ -1,0 +1,16 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/Aclaraciones.md",
+      "date": "Sat Nov 26 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": false,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}

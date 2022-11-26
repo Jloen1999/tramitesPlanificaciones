@@ -52,7 +52,6 @@
   "obsidian-book-search-plugin",
   "obsidian-local-images",
   "execute-code",
-  "obsidian-frontmatter-tag-suggest",
   "obsidian-indent-lines",
   "obsidian-better-codeblock",
   "copy-as-html",
@@ -71,5 +70,8 @@
   "nldates-obsidian",
   "obsidian-math-plus",
   "obsidian-git",
-  "url-into-selection"
+  "url-into-selection",
+  "table-editor-obsidian",
+  "obsidian-contextual-typography",
+  "obsidian-import-json"
 ]

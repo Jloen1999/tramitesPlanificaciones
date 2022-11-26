@@ -15,3 +15,6 @@ name Haz Click
 type link
 action https://google.com
 ```
+
+---
+mind

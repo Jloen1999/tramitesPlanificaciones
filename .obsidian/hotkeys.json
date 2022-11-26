@@ -297,14 +297,6 @@
     }
   ],
   "graph:open": [],
-  "graph:open-local": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "V"
-    }
-  ],
   "markdown:toggle-preview": [
     {
       "modifiers": [
@@ -329,6 +321,41 @@
         "Shift"
       ],
       "key": "ArrowUp"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ],
+  "quick-explorer:browse-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Home"
+    }
+  ],
+  "quick-explorer:go-next": [],
+  "obsidian-focus-mode:toggle-focus-mode": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "B"
     }
   ]
 }

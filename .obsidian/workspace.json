@@ -4,35 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "3f35374002de0b0e",
+        "id": "b3afd155e528998a",
         "type": "tabs",
         "children": [
           {
-            "id": "baf5a24590b2a635",
+            "id": "c087c01909a84f82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "app.Obsidian/database/Tables/Usuario/@Luis Arévalo.md",
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97a9299ab7e65fae",
+            "id": "0849038ad74bcf64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "app.Obsidian/database/Tables/Usuario/@Pablo Setrakian.md",
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "82cf6bf58a4e6a8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fbaac179be2a933",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#metodoEnfrentamiento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.50260543823242
+    "width": 373.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bc41589e76e6097",
@@ -116,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "app.Obsidian/database/Tables/Usuario/@Pablo Setrakian.md",
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "app.Obsidian/database/Tables/Usuario/@Pablo Setrakian.md",
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "app.Obsidian/database/Tables/Usuario/@Pablo Setrakian.md"
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md"
               }
             }
           },
@@ -225,23 +241,38 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
+      },
+      {
+        "id": "4386d3642508a627",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f0888a58fcded14",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
-  "active": "97a9299ab7e65fae",
+  "active": "8fbaac179be2a933",
   "lastOpenFiles": [
-    "app.Obsidian/database/Tables/Usuario/@Luis Arévalo.md",
-    "app.Obsidian/notes/Use plantilla.md",
-    "app.Obsidian/Kanban/Issues1MDP_EF2.md",
-    "app.Obsidian/database/Tables/Usuario/@Pablo Setrakian.md",
-    "app.Obsidian/subjects/mdp/2EF/docu/requisitos.excalidraw",
-    "app.Obsidian/Diagram/Diagram1.svg",
-    "Untitled.md",
-    "app.Obsidian/templates/4 star.md",
-    "app.Obsidian/database/queries.md",
-    "renovacionNIE/documentacion/documetacionRequeridaExtranjeriaTasa/justificante_Y7369285F_18082022101910.pdf"
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EquipoLiga.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/JerarquíaPersona.md",
+    "renovacionNIE/documentacion/Contrato/ContratoArrendamiento_Modificado.pdf",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EnfrentamientoPetanca.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Equipo.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EstadisticaPetanca.md",
+    "estudios/taskList.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Untitled mindmap 1.md"
   ]
 }
