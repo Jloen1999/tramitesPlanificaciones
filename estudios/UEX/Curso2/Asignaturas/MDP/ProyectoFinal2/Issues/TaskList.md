@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## New Request
 
-- [ ] Implementar método getJugador(int id)→Jugador.  #todo #metodo #metodoEquipoLiga[[Metodos#^getJugador]] @{2022-11-26}
-- [ ] Implementar método addJugador(Jugador j)→bool   #todo#metodo #metodoEquipoLiga [[Metodos#^addJugador]] @{2022-11-26}
 
 
 ## In Progress
@@ -22,7 +20,10 @@ kanban-plugin: basic
 
 - [x] Implementar método simular(intcoefEqLocal, int coefEqVis)→int. #todo #metodo #metodoEnfrentamiento  [[Metodos#simular(intcoefEqLocal, int coefEqVis)→int]] @{2022-11-26}
 - [x] Implementar método jugar(int coefEqLocal, int coefEqVis)→int. [[Metodos#jugar(int coefEqLocal, int coefEqVis)]] #metodo #metodoEnfrentamiento @{2022-11-26}
-- [x] Comprobar el correcto funcionamiento de EnfrentamientoPetanca con la clase MainEnfrentamiento. @[[2022-11-26]]
+- [x] Comprobar el correcto funcionamiento de EnfrentamientoPetanca con la clase MainEnfrentamiento. @[[2022-11-26]] ^0nje96
+- [x] Comprobar el correcto funcionamiento de EnfrentamientoPetanca con la clase MainEnfrentamiento. @[[2022-11-26]] ^0nje96
+- [x] Implementar método getJugador(int id)→Jugador.  #todo #metodo #metodoEquipoLiga[[Metodos#^getJugador]] @{2022-11-26}
+- [x] Implementar método addJugador(Jugador j)→bool   #todo#metodo #metodoEquipoLiga [[Metodos#^addJugador]] @{2022-11-26}
 
 
 

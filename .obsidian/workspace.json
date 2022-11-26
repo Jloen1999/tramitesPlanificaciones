@@ -6,19 +6,8 @@
       {
         "id": "b3afd155e528998a",
         "type": "tabs",
+        "dimension": 58.7378640776699,
         "children": [
-          {
-            "id": "c087c01909a84f82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "0849038ad74bcf64",
             "type": "leaf",
@@ -30,12 +19,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f29695e1039df5f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "82cf6bf58a4e6a8b",
         "type": "tabs",
+        "dimension": 41.262135922330096,
         "children": [
           {
             "id": "8fbaac179be2a933",
@@ -262,17 +265,17 @@
     "width": 294.5,
     "collapsed": true
   },
-  "active": "c087c01909a84f82",
+  "active": "f29695e1039df5f9",
   "lastOpenFiles": [
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
+    "2022-11-26.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EquipoLiga.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/JerarquíaPersona.md",
     "renovacionNIE/documentacion/Contrato/ContratoArrendamiento_Modificado.pdf",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EnfrentamientoPetanca.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Equipo.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EstadisticaPetanca.md",
-    "estudios/taskList.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Untitled mindmap 1.md"
+    "estudios/taskList.md"
   ]
 }
