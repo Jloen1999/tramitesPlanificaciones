@@ -1,1 +1,0 @@
-![](.becaPracticas_images/condiciones.png)
