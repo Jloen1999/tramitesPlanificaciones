@@ -5,86 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d3e8843-321f-4a84-88d0-4315b6e3b869" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-math-plus/excalidraw-files/data-455737260076.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/.obsidian/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/.obsidian/appearance.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/.obsidian/core-plugins.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/.obsidian/hotkeys.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/.obsidian/workspace.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EnfrentamientoPetanca.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Equipo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EquipoLiga.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EstadisticaPetanca.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/JerarquíaPersona.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/Aclaraciones.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/DiagramaUML.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/Enunciado.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEquipo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEstadistica.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawPersona.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Relaciones_Requisitos/Persona/HandlebarImport-JSON_Persona.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/Directivo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/Enfrentamiento.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/EnfrentamientoPetanca.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/Equipo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/EquipoLiga.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/Estadistica.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/EstadisticaPetanca.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/Juez.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/Jugador.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/MainPartido.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/Partido.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/PartidoPetanca.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/out/production/segundaEntregaFinal/es/unex/cum/mdp/e22_23/Persona.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/segundaEntregaFinal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/Directivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/Enfrentamiento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/EnfrentamientoPetanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/Equipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/EquipoBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/EquipoLiga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/Estadistica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/EstadisticaPetanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/Jornada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/Juez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/Jugador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/Liga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/MainEnfrentamiento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/MainPartido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/Partido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/PartidoPetanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/src/es/unex/cum/mdp/e22_23/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Tema2/CuestionarioTema2_ RevisiónPrimerIntento1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Tema2/CuestionarioTema2_ RevisiónSegundoIntento2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Tema2/cuestionarioTema2_RevisionSegundoIntento1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Dudas/Dudas 2EF.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/hotkeys.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/hotkeys.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/editing-toolbar/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/editing-toolbar/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-frontmatter-tag-suggest/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-frontmatter-tag-suggest/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/quick-explorer/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/quick-explorer/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/quick-explorer/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/quick-explorer/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-day-planner/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-day-planner/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.Obsidian/Diagram/Diagram1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app.Obsidian/Diagram/Diagram1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.Obsidian/database/Tables/Usuario/@Luis Arévalo.md" beforeDir="false" afterPath="$PROJECT_DIR$/app.Obsidian/database/Tables/Usuario/@Luis Arévalo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.Obsidian/notes/Use plantilla.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.Obsidian/subjects/mdp/2EF/docu/requisitos.excalidraw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.Obsidian/templates/Person.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Enunciado/EntregasFinal_2223.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/mdp.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/mdp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/Aclaraciones.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/Aclaraciones.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEstadistica.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEstadistica.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Relaciones_Requisitos/Persona/HandlebarImport-JSON_Persona.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +72,7 @@
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\AMA\Practicas\Cuestionarios\Tema2" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\app.Obsidian" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Temas\Tema4" />
@@ -166,7 +102,8 @@
       <workItem from="1669205737444" duration="1255000" />
       <workItem from="1669237889293" duration="7000" />
       <workItem from="1669260677970" duration="7564000" />
-      <workItem from="1669463450502" duration="9686000" />
+      <workItem from="1669463450502" duration="19255000" />
+      <workItem from="1669592684293" duration="33675000" />
     </task>
     <servers />
   </component>

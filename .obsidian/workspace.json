@@ -6,42 +6,65 @@
       {
         "id": "b3afd155e528998a",
         "type": "tabs",
-        "dimension": 58.7378640776699,
+        "dimension": 47.12556732223903,
         "children": [
           {
-            "id": "0849038ad74bcf64",
+            "id": "63916bb8c73013b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c57e0f82664d3029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/Aclaraciones.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "f29695e1039df5f9",
+            "id": "ab7fdac94869ac81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42de27b2f7017516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Dudas/Dudas 2EF.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "82cf6bf58a4e6a8b",
+        "id": "0a2b48d40cd1f613",
         "type": "tabs",
-        "dimension": 41.262135922330096,
+        "dimension": 52.874432677760964,
         "children": [
           {
-            "id": "8fbaac179be2a933",
+            "id": "d0d2e2886bd18d8e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -79,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#metodoEnfrentamiento",
+                "query": "tag:#metodoEquipoLiga",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,7 +267,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       },
       {
         "id": "4386d3642508a627",
@@ -265,17 +288,17 @@
     "width": 294.5,
     "collapsed": true
   },
-  "active": "f29695e1039df5f9",
+  "active": "63916bb8c73013b0",
   "lastOpenFiles": [
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
-    "2022-11-26.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EquipoLiga.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/JerarquíaPersona.md",
-    "renovacionNIE/documentacion/Contrato/ContratoArrendamiento_Modificado.pdf",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EnfrentamientoPetanca.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Equipo.md",
+    "app.Obsidian/templates/Daily_Note_Templates/2022-11-29.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/Aclaraciones.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EstadisticaPetanca.md",
-    "estudios/taskList.md"
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEstadistica.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Dudas/Dudas 2EF.md",
+    "app.Obsidian/templates/Daily_Note_Templates/2022-11-26.md",
+    "Recording 20221128024320.webm",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido.md"
   ]
 }

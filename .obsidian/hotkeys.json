@@ -323,14 +323,7 @@
       "key": "ArrowUp"
     }
   ],
-  "graph:open-local": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "V"
-    }
-  ],
+  "graph:open-local": [],
   "quick-explorer:browse-current": [
     {
       "modifiers": [

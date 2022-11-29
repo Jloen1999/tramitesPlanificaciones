@@ -12,10 +12,7 @@ Despacho: 15
 
 Correo: vhidalgo@unex.es
 
-
-
 [[Note success | Hola ]]
-
 
 Grupo: A(Jueves) 12-14h
 

@@ -9,8 +9,8 @@
     }
   ],
   "completePastItems": true,
-  "circularProgress": false,
-  "nowAndNextInStatusBar": false,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
   "showTaskNotification": true,
   "timelineZoomLevel": 4
 }
