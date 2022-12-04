@@ -30,7 +30,7 @@
 
 
 ***LUNES:***
-- [ ]  Clase Teórica de OPT-2(DPW): 15-16:25
+- [ ]  Clase Teórica de OPT-2(DPW): 15-17:00
 - [ ]  Clase Práctica de AMA-A(Lab I): 12-13
 
 ***MARTES***

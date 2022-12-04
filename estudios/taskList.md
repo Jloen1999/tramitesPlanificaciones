@@ -1,10 +1,8 @@
 # Lista de tareas:
 
-- [ ]  Trabajo de ECTS de EC.
-- [ ] Segunda entrega Final de MDP, el dia 20 de noviembre.
-- [ ] Clases de DPW de 14:00-15:00:
-  - [ ] 21/11/22
-  - [ ] 23/11/22
-  - [ ] 28/11/22
-  - [ ] 30/11/22
+- [ ] Videollamada con Arévalo a las 9
+- [ ] Llamada con el tío Tolín a las 10
+- [ ] Tutoría de AMA a las 11:30(No entiendo cómo se hace)
+![img.png](img.png)
+- [ ] Clase práctica de AMA a las 12
 

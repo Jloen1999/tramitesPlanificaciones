@@ -611,22 +611,47 @@ public int compare(EquipoLiga e1, EquipoLiga e2) {
 ## ComparatorEnfrentamientos #testMethod #comparator
 
 ```java TI:"ComparatorEnfrentamientos.java"
+package es.unex.cum.mdp.e22_23;  
+  
+import java.util.Comparator;  
+  
 /**  
- * Compara los enfrentamientos ganados y/o empatados y/o perdidos * de los equipos Local y Visitante de la Liga. * @param e1 the first object to be compared.  
- * @param e2 the second object to be compared.  
- * @return  
+ * @description Clase ComparatorEnfrentamientos  
+ * Compara los enfrentamientos * <ul>  
+ *     <li>Ganados</li>  
+ *     <li>Perdidos</li>  
+ *     <li>Empatados</li>  
+ * </ul>  
+ * de los equiposLiga Local y Visitf ante.  
+ * * @author Jose Luis Obiang Ela Nanguan  
+ * @version 1.0, 22/11/2023  
+ * @see es.unex.cum.mdp.e22_23.Persona Clase Padre Persona  
+ * @see Comparator#compare(Object, Object)  
  */  
-@Override  
-public int compare(EquipoLiga e1, EquipoLiga e2) {  
-    int comparison = Integer.compare(e1.est.enfrenGanados,e2.est.enfrenGanados); //Primero comparamos los enfrentamientos ganados  
-    if(comparison != 0){  
-        return comparison;  
+public class ComparatorEnfrentamientos implements Comparator<EquipoLiga> {  
+
+    /**  
+     * Compara los enfrentamientos ganados y/o empatados y/o perdidos     * de los equipos Local y Visitante de la Liga.     * @param e1 el primer objeto a comparar(EquipoLiga Local)  
+     * @param e2 el segundo objeto a comparar(EquipoLiga Visitante).  
+     * @return entero, Devuelve un valor de tipo entero:  
+     * <ul>  
+     *     <li>Entero mayor que cero->Gana el equipoLiga Local.</li>  
+     *     <li>Entero menor que cero->Gana el equipoLiga Visitante.</li>  
+     *     <li>Entero igual a cero->El equipoLiga Local y Visitante están empatados.</li>  
+     * </ul>  
+     */  
+    @Override  
+    public int compare(EquipoLiga e1, EquipoLiga e2) {  
+        int comparison = Integer.compare(e1.est.enfrenGanados,e2.est.enfrenGanados); //Primero comparamos los enfrentamientos ganados  
+        if(comparison != 0){  
+            return comparison;  
+        }  
+        comparison = Integer.compare(e1.est.enfrenEmpatados,e2.est.enfrenEmpatados); //Segundo comparamos los enfrentamientos empatados  
+        if(comparison != 0){  
+            return comparison;  
+        }  
+        return Integer.compare(e1.est.enfrenPerdidos,e2.est.enfrenPerdidos); //Y por último comparamos los enfrentamientos perdidos  
     }  
-    comparison = Integer.compare(e1.est.enfrenEmpatados,e2.est.enfrenEmpatados); //Primero comparamos los enfrentamientos empatados  
-    if(comparison != 0){  
-        return comparison;  
-    }  
-    return Integer.compare(e1.est.enfrenPerdidos,e2.est.enfrenPerdidos); //Primero comparamos los enfrentamientos perdidos  
 }
 ```
 

@@ -5,21 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d3e8843-321f-4a84-88d0-4315b6e3b869" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Tema2/CuestionarioTema2_ RevisiónPrimerIntento1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Tema2/CuestionarioTema2_ RevisiónSegundoIntento2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Practicas/Cuestionarios/Tema2/cuestionarioTema2_RevisionSegundoIntento1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Dudas/Dudas 2EF.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/AMA/Temas/Tema2/apuntes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio15Entregab.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio15EntregacFactorial.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Microprocesadores/Diagrama1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Microprocesadores/Drawing 2022-12-01 13.03.15.excalidraw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudios/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/hotkeys.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/hotkeys.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-day-planner/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-day-planner/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/Aclaraciones.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/Aclaraciones.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEstadistica.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEstadistica.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/dpw.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/dpw.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio15Entrega.s" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/actividades/Ejercicio15Entrega.s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/EC/ec.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/JoseLuisObiang_Ejercicio4.zip" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/Ejercicio4/JoseLuisObiang_Ejercicio4.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDAI/Temas/Tema3/Tema2.5_Spring_Boot_Relational_Mapping_1aN.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Relaciones_Requisitos/Persona/HandlebarImport-JSON_Persona.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudios/taskList.md" beforeDir="false" afterPath="$PROJECT_DIR$/estudios/taskList.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,12 +69,13 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\EC\actividades" />
+      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios\Ejercicio4" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\ProyectoFinal2\Enunciado" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema3" />
-      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\MDP\Temas\Tema4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios\Ejercicio4" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\AMA\Practicas\Cuestionarios\Tema2" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\app.Obsidian" />
       <recent name="C:\Users\JLOel\Desktop\tramitesPlanificaciones\estudios\UEX\Curso2\Asignaturas\IPO\Ejercicios" />
@@ -103,7 +107,14 @@
       <workItem from="1669237889293" duration="7000" />
       <workItem from="1669260677970" duration="7564000" />
       <workItem from="1669463450502" duration="19255000" />
-      <workItem from="1669592684293" duration="33675000" />
+      <workItem from="1669592684293" duration="34875000" />
+      <workItem from="1669797565959" duration="825000" />
+      <workItem from="1669799448333" duration="304000" />
+      <workItem from="1669817527888" duration="818000" />
+      <workItem from="1669818458932" duration="8171000" />
+      <workItem from="1669964354085" duration="1979000" />
+      <workItem from="1669996129533" duration="11526000" />
+      <workItem from="1670178172908" duration="3140000" />
     </task>
     <servers />
   </component>

@@ -37,6 +37,7 @@ kanban-plugin: basic
 
 ## Completed
 
+- [ ] 
 - [x] Implementar método simular(intcoefEqLocal, int coefEqVis)→int. #todo #metodo #metodoEnfrentamiento  [[Metodos#simular(intcoefEqLocal, int coefEqVis)→int]] @{2022-11-26}
 - [x] Implementar método jugar(int coefEqLocal, int coefEqVis)→int. [[Metodos#jugar(int coefEqLocal, int coefEqVis)]] #metodo #metodoEnfrentamiento @{2022-11-26}
 - [x] Comprobar el correcto funcionamiento de EquipoLiga con la clase MainEquipoLiga. [[Metodos#Comprobar el correcto funcionamiento de EquipoLiga con la clase MainEquipoLiga. 2022-11-26]] @[[2022-11-26]] ^0nje96

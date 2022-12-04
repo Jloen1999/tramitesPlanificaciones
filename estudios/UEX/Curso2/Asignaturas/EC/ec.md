@@ -8,6 +8,8 @@ Correo: jplaza@unex.es
 
 Profesora Prácticas: Violeta Hidalgo Izquierdo
 
+
+
 Despacho: 15
 
 Correo: vhidalgo@unex.es

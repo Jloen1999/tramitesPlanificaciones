@@ -36,7 +36,8 @@ sumatorio:  #Apilamos
              addi $t0, $t0, 4
              j for
 
-       fin: move $v0, $t4
+       fin: #Desapilamos
+            move $v0, $t4
             lw $ra, 0($sp)
             lw $a0, 4($sp)
             lw $a1, 8($sp)
