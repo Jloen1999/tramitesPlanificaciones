@@ -132,14 +132,14 @@ public interface ShowPetanca {
             System.out.println("|--------------------------------------------------------- Jugadores EquipoLiga Local -----------------------------------------------------------|");
             p.getLocal().getJugadores().forEach(jug -> System.out.println("| " + jug + "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t |"));
             System.out.println("|--------------------------------------------------------- Jugadores EquipoLiga Visitante -------------------------------------------------------|");
-            p.getVisitante().getJugadores().forEach(jug -> System.out.println("| " + jug + "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t |"));
+            p.getVisitante().getJugadores().forEach(jug -> System.out.println("| " + jug + "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t |"));
 
             if (p.getEnfrentamientos() != null && !p.getEnfrentamientos().isEmpty()) {
                 System.out.println(ConsoleColors.BLUE_BRIGHT + "|" + ConsoleColors.PURPLE_BOLD + "-------------------------------------------------------------- ENFRENTAMIENTOS -----------------------------------------------------------------" + ConsoleColors.BLUE_BRIGHT + "|");
-                System.out.println(ConsoleColors.BLUE_BRIGHT + "|" + ConsoleColors.PURPLE_BOLD + "-----------------------------LOCAL--------------------------- " + p.getLocal().getE().getNombre() + ConsoleColors.RED + " VS " + ConsoleColors.PURPLE_BOLD + p.getVisitante().getE().getNombre() + " ------------------------VISITANTE------------------------------" + ConsoleColors.BLUE_BRIGHT + "|");
+                System.out.println(ConsoleColors.BLUE_BRIGHT + "|" + ConsoleColors.PURPLE_BOLD + "-----------------------------LOCAL--------------------------- " + p.getLocal().getE().getNombre() + ConsoleColors.RED + " VS " + ConsoleColors.PURPLE_BOLD + p.getVisitante().getE().getNombre() + " ------------------------VISITANTE-----------------------------" + ConsoleColors.BLUE_BRIGHT + "|");
                 for (EnfrentamientoPetanca en : p.getEnfrentamientos()) {
                              //Muestra los enfrentamientos
-                    if (en.getjLocal().getNombre().length() == 9 || en.getjVis().getNombre().length() == 9 || String.valueOf(en.getVisitante()).length() == 2 || String.valueOf(en.getLocal()).length() == 2) {
+                    if (en.getjLocal().getNombre().length() >= 9 || en.getjVis().getNombre().length() >= 9 || String.valueOf(en.getVisitante()).length() >= 2 || String.valueOf(en.getLocal()).length() >= 2 && en.getjLocal().getNick().length() >= 9 || en.getjVis().getNick().length() >= 9) {
                         System.out.println("|Nombre Jugador = " + en.getjLocal().getNombre() + ", Coeficiente Jugador = " + en.getjLocal().getCoef() + ", Puntos Equipo = " + en.getLocal() + ConsoleColors.RED + " VS " + ConsoleColors.BLUE_BRIGHT + "Nombre Jugador = " + en.getjVis().getNombre() + ", Coeficiente Jugador = " + en.getjVis().getCoef() + ", Puntos Equipo = " + en.getVisitante() + " |");
                     } else {
                         System.out.println("|Nombre Jugador = " + en.getjLocal().getNombre() + ", Coeficiente Jugador = " + en.getjLocal().getCoef() + ", Puntos Equipo = " + en.getLocal() + ConsoleColors.RED + " VS " + ConsoleColors.BLUE_BRIGHT + "Nombre Jugador = " + en.getjVis().getNombre() + ", Coeficiente Jugador = " + en.getjVis().getCoef() + ", Puntos Equipo = " + en.getVisitante() + "  |");
@@ -168,7 +168,7 @@ public interface ShowPetanca {
                     System.out.println("|" + ConsoleColors.GREEN + " Pierde el equipo Visitante " + ConsoleColors.YELLOW + p.getVisitante().getE().getNombre() + ConsoleColors.GREEN + " con -> " + p.getVisitante().getEst().getPuntos() + " Puntos\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + ConsoleColors.BLUE_BRIGHT + " |");
 
                 } else if (p.getLocal().getEst().getPuntos() < p.getVisitante().getEst().getPuntos()) {
-                    System.out.println("|" + ConsoleColors.GREEN + " Gana el equipo Visitante " + ConsoleColors.YELLOW + p.getVisitante().getE().getNombre() + ConsoleColors.GREEN + " con -> " + p.getVisitante().getEst().getPuntos() + " Puntos\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t " + ConsoleColors.BLUE_BRIGHT + "|");
+                    System.out.println("|" + ConsoleColors.GREEN + " Gana el equipo Visitante " + ConsoleColors.YELLOW + p.getVisitante().getE().getNombre() + ConsoleColors.GREEN + " con -> " + p.getVisitante().getEst().getPuntos() + " Puntos\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t " + ConsoleColors.BLUE_BRIGHT + "|");
                     System.out.println("|" + ConsoleColors.GREEN + " Pierde el equipo Local " + ConsoleColors.YELLOW + p.getLocal().getE().getNombre() + ConsoleColors.GREEN + " con -> " + p.getLocal().getEst().getPuntos() + " Puntos\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + ConsoleColors.BLUE_BRIGHT + " |");
                 } else {
                     System.out.println("|" + ConsoleColors.GREEN + " Empatan el equipo Local " + ConsoleColors.YELLOW + p.getLocal().getE().getNombre() + ConsoleColors.GREEN + " y Visitante " + ConsoleColors.YELLOW + p.getVisitante().getE().getNombre() + ConsoleColors.GREEN + " con -> " + p.getLocal().getEst().getPuntos() + " Puntos\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t " + ConsoleColors.BLUE_BRIGHT + "|");

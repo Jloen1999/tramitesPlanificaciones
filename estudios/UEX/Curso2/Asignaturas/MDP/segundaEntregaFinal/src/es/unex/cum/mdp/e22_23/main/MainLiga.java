@@ -3,11 +3,15 @@ package es.unex.cum.mdp.e22_23.main;
 import es.unex.cum.mdp.e22_23.equipo.Equipo;
 import es.unex.cum.mdp.e22_23.equipo.EquipoLiga;
 import es.unex.cum.mdp.e22_23.estadistica.EstadisticaPetanca;
+import es.unex.cum.mdp.e22_23.exceptions.NoEnfrentamientosException;
+import es.unex.cum.mdp.e22_23.exceptions.NoJornadaException;
 import es.unex.cum.mdp.e22_23.exceptions.NoLigaException;
+import es.unex.cum.mdp.e22_23.exceptions.NoPartidoException;
 import es.unex.cum.mdp.e22_23.jornadaLigaTemporadaCampeonato.Liga;
 import es.unex.cum.mdp.e22_23.persona.Directivo;
 import es.unex.cum.mdp.e22_23.persona.Jugador;
 import es.unex.cum.mdp.e22_23.utils.ConsoleColors;
+import es.unex.cum.mdp.e22_23.utils.ShowPetanca;
 
 import java.util.Random;
 
@@ -49,6 +53,18 @@ public class MainLiga {
             System.out.println(ConsoleColors.GREEN_BOLD_BRIGHT + "                                                                      |--------------|                                                                  " + ConsoleColors.RESET);
             liga.crearCalendario(tipo); //Creamos el calendario
             liga.simular(); //Simulamos los enfrentamientos
+            System.out.println(ConsoleColors.GREEN_BOLD_BRIGHT + "                                                                  |-----------|                                                                  " + ConsoleColors.RESET);
+            System.out.println(ConsoleColors.GREEN_BOLD_BRIGHT + "******************************************************************| SIMULANDO |******************************************************************" + ConsoleColors.RESET);
+            System.out.println(ConsoleColors.GREEN_BOLD_BRIGHT + "                                                                  |-----------|                                                                  " + ConsoleColors.RESET);
+            //Después de simular Visualizamos los datos de la Liga
+                try {
+                    ShowPetanca.showJornadaLiga(liga);
+                } catch (NoLigaException e) {
+                    System.out.println(e.getMessage());
+                } catch (NoJornadaException e) {
+                    System.out.println(e.getMessage());
+                }
+
             try {
                 liga.MostrarEstadistica(liga.getEquiposLiga(),""); //Mostramos las estadísticas de los equipos de la Liga
             } catch (NoLigaException e) {
