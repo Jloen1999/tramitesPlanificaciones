@@ -1,7 +1,7 @@
 # Diagrama
 
-<img src=“UMLPartido.png” alt=“umlPartido”>
-UMLPartido.png
+<img src=“estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/images/UMLPartido.png” alt=“umlPartido”>
+
 # Métodos
 ## Prerrequisitos y Flujo normal y alterno
 ### getEnfrentamientoId(int id)
