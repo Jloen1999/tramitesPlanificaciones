@@ -1,5 +1,6 @@
 # Diagrama
-![umlPartido](UMLPartido.png)
+
+![umlPartido](https://github.com/Jloen1999/tramitesPlanificaciones/blob/3f992be0008cbe0472177ce3004849d8f8c301a7/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/images/UMLPartido.png)
 
 
 # Métodos
