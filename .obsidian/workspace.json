@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "right": {
     "id": "9bc41589e76e6097",
@@ -247,15 +246,15 @@
   },
   "active": "7260c6cc2a924924",
   "lastOpenFiles": [
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/images/UMLPartido.png",
+    "Pasted Image 20221206210527_908.png",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/Clase Partido.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/ExcaliDrawPartido.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
     "estudios/UEX/Curso2/Asignaturas/MDAI/Apuntes/ConectionBD.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEstadistica.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEquipo.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Dudas/Dudas 2EF.md",
-    "estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/Ejercicio5.md",
-    "estudios/taskList.md",
-    "estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md"
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Dudas/Dudas 2EF.md"
   ]
 }
