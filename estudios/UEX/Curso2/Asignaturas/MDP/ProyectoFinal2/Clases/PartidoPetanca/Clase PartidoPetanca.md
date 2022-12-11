@@ -1,6 +1,6 @@
 # Diagrama
 
-![umlPartido](https://github.com/Jloen1999/tramitesPlanificaciones/blob/3f992be0008cbe0472177ce3004849d8f8c301a7/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/PartidoPetanca/images/UMLPartidoPetanca.png)
+![umlPartido](https://github.com/Jloen1999/tramitesPlanificaciones/blob/26afb42c69971252b87213bb37c73a81551e9078/estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/PartidoPetanca/images/umlPartidoPetanca.png)
 
 
 # Métodos
