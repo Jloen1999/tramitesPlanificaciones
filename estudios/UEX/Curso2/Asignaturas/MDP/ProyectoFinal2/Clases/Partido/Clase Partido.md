@@ -1,7 +1,7 @@
 # Diagrama
 
 <img src=“UMLPartido.png” alt=“umlPartido”>
-
+UMLPartido.png
 # Métodos
 ## Prerrequisitos y Flujo normal y alterno
 ### getEnfrentamientoId(int id)
