@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d3e8843-321f-4a84-88d0-4315b6e3b869" name="Changes" comment="" />
+    <list default="true" id="4d3e8843-321f-4a84-88d0-4315b6e3b869" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +107,7 @@
       <workItem from="1670437216635" duration="13825000" />
       <workItem from="1670532092751" duration="4803000" />
       <workItem from="1670761928578" duration="25000" />
-      <workItem from="1670761997924" duration="3487000" />
+      <workItem from="1670761997924" duration="7499000" />
     </task>
     <servers />
   </component>

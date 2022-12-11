@@ -11,40 +11,40 @@
             "id": "0bc46b3ea6221ff6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/PartidoPetanca/Clase PartidoPetanca.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "8d8df209762ec655",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EstadisticaPetanca/Clase EstadisticaPetanca.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "5bcaffb40c92368b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapView",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EnfrentamientoPetanca/Clase EnfrentamientoPetanca.md",
-                "mode": "preview",
-                "source": false
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/diagramas/Equipo.md"
+              }
+            }
+          },
+          {
+            "id": "bec8b833f12859f2",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/diagramas/EnfrentamientoPetanca.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EnfrentamientoPetanca/Clase EnfrentamientoPetanca.md",
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/diagramas/EnfrentamientoPetanca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EnfrentamientoPetanca/Clase EnfrentamientoPetanca.md",
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/diagramas/EnfrentamientoPetanca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EnfrentamientoPetanca/Clase EnfrentamientoPetanca.md"
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/diagramas/EnfrentamientoPetanca.md"
               }
             }
           },
@@ -258,17 +258,17 @@
     "width": 294.5,
     "collapsed": true
   },
-  "active": "5bcaffb40c92368b",
+  "active": "bec8b833f12859f2",
   "lastOpenFiles": [
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EnfrentamientoPetanca/EnfrentamientoPetanca.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/diagramas/ExcaliDrawEquipo.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/diagramas/EstadisticaPetanca.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/diagramas/EquipoLiga.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/diagramas/Equipo.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/diagramas/EnfrentamientoPetanca.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EnfrentamientoPetanca/Clase EnfrentamientoPetanca.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EstadisticaPetanca/Clase EstadisticaPetanca.md",
-    "Pasted Image 20221206210527_908.png",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/PartidoPetanca/Clase PartidoPetanca.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/Clase Partido.md",
-    "conflict-files-obsidian-git.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/PartidoPetanca/images/umlPartidoPetanca.png",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/images/UMLPartido.png",
-    "images/UMLPartido.png.md"
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Doc/Enunciado.pdf",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Doc/Dudas 2EF.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Doc/DiagramaUML.png"
   ]
 }
