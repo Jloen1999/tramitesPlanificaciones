@@ -47,7 +47,8 @@
     "MainEnfrentamiento",
     "addJugador",
     "j",
-    "PosRequisito"
+    "PosRequisito",
+    "return"
   ],
   "pdfExportSettings": {
     "includeName": true,

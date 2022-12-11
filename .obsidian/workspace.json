@@ -4,18 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "89b6f3ead95a6dc3",
+        "id": "9b07b3f0274e6d8e",
         "type": "tabs",
         "children": [
           {
-            "id": "e4ec8d89d880ff70",
+            "id": "2e2ca4950a919374",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mindmapView",
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/ExcaliDrawPartido.md"
+              }
+            }
+          },
+          {
+            "id": "7260c6cc2a924924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/Clase Partido.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bc41589e76e6097",
@@ -99,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/Clase Partido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/Clase Partido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/Clase Partido.md"
+              }
             }
           },
           {
@@ -225,17 +245,17 @@
     "width": 294.5,
     "collapsed": true
   },
-  "active": "e4ec8d89d880ff70",
+  "active": "7260c6cc2a924924",
   "lastOpenFiles": [
-    "estudios/UEX/Curso2/Asignaturas/DPW(OPT2)/dpw.md",
-    "estudios/UEX/Curso2/Asignaturas/AMA/Temas/Tema2/apuntes.md",
-    "estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/Aclaraciones.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/ExcaliDrawPartido.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/DiagramaUML.png",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/EnunciadoAndNormas/Enunciado.pdf",
+    "estudios/UEX/Curso2/Asignaturas/MDAI/Apuntes/ConectionBD.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEstadistica.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEquipo.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Dudas/Dudas 2EF.md",
-    "estudios/UEX/Curso2/Asignaturas/EC/actividades/Microprocesadores/Drawing 2022-12-01 13.03.15.excalidraw.md"
+    "estudios/UEX/Curso2/Asignaturas/IPO/Ejercicios/Ejercicio5.md",
+    "estudios/taskList.md",
+    "estudios/UEX/Curso2/Planificaciones/resumenAsignaturasCurso2.md"
   ]
 }
