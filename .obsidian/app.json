@@ -48,7 +48,8 @@
     "addJugador",
     "j",
     "PosRequisito",
-    "return"
+    "return",
+    "item"
   ],
   "pdfExportSettings": {
     "includeName": true,
