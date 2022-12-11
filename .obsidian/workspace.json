@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d8df209762ec655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EstadisticaPetanca/Clase EstadisticaPetanca.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/PartidoPetanca/Clase PartidoPetanca.md",
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EstadisticaPetanca/Clase EstadisticaPetanca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/PartidoPetanca/Clase PartidoPetanca.md",
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EstadisticaPetanca/Clase EstadisticaPetanca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/PartidoPetanca/Clase PartidoPetanca.md"
+                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EstadisticaPetanca/Clase EstadisticaPetanca.md"
               }
             }
           },
@@ -233,17 +246,17 @@
     "width": 294.5,
     "collapsed": true
   },
-  "active": "0bc46b3ea6221ff6",
+  "active": "8d8df209762ec655",
   "lastOpenFiles": [
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/Clase Partido.md",
+    "Pasted Image 20221206210527_908.png",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/EstadisticaPetanca/Clase EstadisticaPetanca.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/PartidoPetanca/Clase PartidoPetanca.md",
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/Clase Partido.md",
     "conflict-files-obsidian-git.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/PartidoPetanca/images/umlPartidoPetanca.png",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/images/UMLPartido.png",
     "images/UMLPartido.png.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/ExcaliDrawPartido.md",
-    "Pasted Image 20221206210527_908.png",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
-    "estudios/UEX/Curso2/Asignaturas/MDAI/Apuntes/ConectionBD.md"
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md"
   ]
 }
