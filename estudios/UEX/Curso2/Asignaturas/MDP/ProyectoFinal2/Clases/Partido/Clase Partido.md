@@ -1,6 +1,6 @@
 # Diagrama
+![umlPartido](UMLPartido.png)
 
-<img src=“images/UMLPartido.png” alt=“umlPartido”>
 
 # Métodos
 ## Prerrequisitos y Flujo normal y alterno
