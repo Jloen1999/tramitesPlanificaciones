@@ -1,6 +1,6 @@
 # Diagrama
 
-<img src=“estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/images/UMLPartido.png” alt=“umlPartido”>
+![umlPartido](estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/images/UMLPartido.png)
 
 # Métodos
 ## Prerrequisitos y Flujo normal y alterno
