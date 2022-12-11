@@ -1,5 +1,5 @@
 # Diagrama
-![[UMLPartido.png]]
+![[images/UMLPartido.png]]
 
 # Métodos
 ## Prerrequisitos y Flujo normal y alterno

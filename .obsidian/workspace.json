@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b07b3f0274e6d8e",
+        "id": "332252c5fc76d512",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2ca4950a919374",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/ExcaliDrawPartido.md"
-              }
-            }
-          },
-          {
-            "id": "7260c6cc2a924924",
+            "id": "c37220258e57f421",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,17 +233,17 @@
     "width": 294.5,
     "collapsed": true
   },
-  "active": "7260c6cc2a924924",
+  "active": "c37220258e57f421",
   "lastOpenFiles": [
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/images/UMLPartido.png",
-    "Pasted Image 20221206210527_908.png",
+    "images/UMLPartido.png.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/Clase Partido.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Clases/Partido/ExcaliDrawPartido.md",
+    "Pasted Image 20221206210527_908.png",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Metodos/Metodos.md",
     "estudios/UEX/Curso2/Asignaturas/MDAI/Apuntes/ConectionBD.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Issues/TaskList.md",
     "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEstadistica.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEquipo.md",
-    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/Dudas/Dudas 2EF.md"
+    "estudios/UEX/Curso2/Asignaturas/MDP/ProyectoFinal2/ExcaliDraw/ExcaliDrawEquipo.md"
   ]
 }
