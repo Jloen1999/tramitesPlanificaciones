@@ -1,0 +1,56 @@
+body{
+    margin: 0 auto;
+    font-family: sans-serif;
+    padding: 0;
+}
+
+div.contenedor{
+    border: 1px dashed blue;
+}
+div.hija{
+    background-color: red;
+    width: 40px;
+    height: 40px;
+}
+
+hgroup{
+    position: absolute;
+    text-align: center;
+}
+h1{
+    position: absolute;
+    font-size: 20px;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+hgroup>img{
+    border-radius: 6em;
+    width: 9em;
+}
+
+
+ul{
+    list-style: none;
+    margin: 0 auto;
+    max-width: 480px;
+    box-sizing: border-box;
+}
+li{
+    background-color: #fffa;
+    backdrop-filter: blur(10px) saturate(180%) contrast(130%);
+    box-shadow: rgb(23 32 90 / 24%) 0 2px 2px 0;
+    border-radius: 10em;
+    padding: 2em;
+    margin: 2em;
+    display: flex;
+    justify-content: center;
+}
+li>a{
+    float: right;
+    padding-left: 2em;
+}
+li>a>img{
+    float: left;
+}
+

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <title>Repaso de webSite</title>
+    <meta name="description" content="Repaso de webSite, html, css y JavaScript">
+    <meta name="author" content="Jose Luis Obiang Ela Nanguan">
+    <meta name="keywords" content="html, css, javaScript, repaso, website">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge, chrome=1">
+    <meta name="viewport"
+          content="width=device-width,user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0"/>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="preload" href="/imagenes/logo1.jpg">
+    <meta charset="UTF-8">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.birds.min.js"></script>
+
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            VANTA.BIRDS({
+                el: "#vanta",
+                mouseControls: true,
+                touchControls: true,
+                gyroControls: true,
+                minHeight: 200.00,
+                minWidth: 200.00,
+                scale: 1.00,
+                scaleMobile: 1.00,
+                backgroundAlpha: 0.0,
+                color2: 0x00000,
+                wingSpan: 40.00,
+                separation: 100.00,
+                alignment: 77.00,
+                cohesion: 5.00,
+                quantity: 1.00
+            })
+
+            setTimeout(() => {
+                const main = document.querySelector('main')
+                main.style.opacity = 1
+                main.style.filter = 'blur(0px)'
+            }, 1000)
+        })
+    </script>
+
+</head>
+<body>
+<div id="vanta">
+    <video autoplay muted loop playsinline>
+        <source src="/video/images_bg.m4v" type="video/mp4, codecs=hvc1">
+        <source src="/video/images_bg.webm" type="video/webm, codecs=vp9">
+    </video>
+    <main class="animated">
+        <header>
+            <img src="/imagenes/sport.jpg" alt="">
+            <h1 style="clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);">@jloen1999</h1>
+        </header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="https://jloen1999.github.io/" data-tooltip="Tooltip">
+                        <img src="/imagenes/homepage.svg" alt="homepage" width="20"/>
+                        Official WebSite
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/channel/UCHl0w3ShckzqOBwTa3qvGqg">
+                        <img src="/imagenes/youtube.svg" alt="youtube" width="20"/>
+                        Youtube
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/Jloen1999">
+                        <img src="/imagenes/github.svg" alt="github" width="20"/>
+                        Github
+                    </a>
+                </li>
+            </ul>
+
+        </nav>
+    </main>
+</div>
+</body>
+</html>

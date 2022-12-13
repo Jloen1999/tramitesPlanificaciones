@@ -1,0 +1,23 @@
+div{
+    width: 300px;
+}
+ol{
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+
+h1{
+    text-align: center;
+}
+.days{
+    color: blue;
+    text-align: right;
+}
+.letter-day{
+    font-weight: bold;
+    text-align: center;
+}
+#first-day{
+    grid-column-start: 5;
+}
